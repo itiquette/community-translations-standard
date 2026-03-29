@@ -8,7 +8,7 @@ Standarden för offentlig kod är ett gemenskapsförvaltat projekt.
 
 ## Principer
 
-Gemenskapen för standarden för offentlig kod följer dessa principer:
+Gemenskapen för standarden för offentlig kod följer följande principer:
 
 - Öppenhet — så få begränsningar som möjligt för alla att anpassa standarden för offentlig kod till sitt sammanhang
 - Välkomnande och respektfullt — som gemenskap vill vi göra det enklare för nya användare att bli bidragsgivare
@@ -69,8 +69,8 @@ Beslutsprocessen bygger på samtycke som standard och omröstning för vissa fr�
 
 ### Samtycke
 
-I denna gemenskap innebär "samtycke" att om du bedömer att ett beslut är okontroversiellt kan du helt enkelt gå vidare och fatta det beslutet.
-Varje beslut som fattas på detta sätt anses ha stöd så länge ingen invänder.
+I gemenskapen innebär "samtycke" att om du bedömer att ett beslut är okontroversiellt kan du helt enkelt gå vidare och fatta det beslutet.
+Varje beslut som fattas så anses ha stöd så länge ingen invänder.
 Självfallet måste du vara beredd att återställa ditt arbete om någon invänder.
 
 Om det råder osäkerhet kring ett beslut kan en styrgruppsledamot informera övriga i gruppen om att hen avser att fatta ett visst beslut.
@@ -87,7 +87,7 @@ Men följande frågor **måste** tas till omröstning:
 
 - Tillägg av en ledamot (enkel majoritet)
 - Avsättning av en ledamot (kvalificerad majoritet)
-- Ändring av styrningsreglerna (detta dokument) (kvalificerad majoritet)
+- Ändring av styrningsreglerna (dokumentet) (kvalificerad majoritet)
 - Licens- och immaterialrättsändringar (inbegripet nya logotyper och ordmärken) (enkel majoritet)
 - Tillägg, arkivering eller borttagning av delprojekt (enkel majoritet)
 

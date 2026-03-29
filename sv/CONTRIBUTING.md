@@ -1,4 +1,4 @@
-# Att bidra till denna standard
+# Att bidra till standarden
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
@@ -6,7 +6,7 @@
 Tack för att du bidrar!
 
 Vi förstår att en standard som denna bara kan fastställas i samarbete med så många offentliga teknologer, beslutsfattare och intresserade personer som möjligt.
-Därför uppskattar vi dina synpunkter, välkomnar återkoppling och förbättringar av detta projekt, och är mycket öppna för samarbete.
+Därför uppskattar vi dina synpunkter, välkomnar återkoppling och förbättringar av projektet, och är mycket öppna för samarbete.
 
 Vi välkomnar ärenden och ändringsbegäranden från alla.
 Om du inte är bekväm med GitHub kan du skicka din återkoppling via e-post till <info@publiccode.net>.
@@ -15,7 +15,7 @@ Om du inte är bekväm med GitHub kan du skicka din återkoppling via e-post til
 
 En översikt på hög nivå av den utveckling vi redan har skisserat finns i [färdplanen](/docs/roadmap.md).
 Hjälp gärna utvecklingen genom att rapportera problem, föreslå ändringar och ställa frågor.
-För att göra detta kan du [skapa ett ärende på GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) för detta projekt i [GitHub-ärenden för standarden för offentlig kod](https://github.com/standard-for-public-code/standard-for-public-code/issues).
+För att göra detta kan du [skapa ett ärende på GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) för projektet i [GitHub-ärenden för standarden för offentlig kod](https://github.com/standard-for-public-code/standard-for-public-code/issues).
 
 Eller delta i [diskussionerna](https://github.com/standard-for-public-code/standard-for-public-code/discussions).
 
@@ -25,9 +25,9 @@ Du behöver inte ändra någon av vår kod eller dokumentation för att vara en 
 
 Om du vill lägga till dokumentation eller kod i något av våra projekt bör du göra en ändringsbegäran.
 
-Om du aldrig har använt GitHub, kom igång med [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) eller följ en av de utmärkta kostnadsfria interaktiva kurserna i [GitHub Skills](https://skills.github.com/) om att arbeta med GitHub och Markdown, den syntax som detta projekts dokumentation är skriven i.
+Om du aldrig har använt GitHub, kom igång med [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) eller följ en av de utmärkta kostnadsfria interaktiva kurserna i [GitHub Skills](https://skills.github.com/) om att arbeta med GitHub och Markdown, den syntax som projektets dokumentation är skriven i.
 
-Detta projekt är licensierat under Creative Commons Zero v1.0 Universal, vilket i huvudsak innebär att projektet, tillsammans med dina bidrag, är i allmän egendom i alla jurisdiktioner där det är möjligt, och att alla kan göra vad de vill med det.
+Projektet är licensierat under Creative Commons Zero v1.0 Universal, vilket i huvudsak innebär att projektet, tillsammans med dina bidrag, är i allmän egendom i alla jurisdiktioner där det är möjligt, och att alla kan göra vad de vill med det.
 
 ### 1. Gör dina ändringar
 
@@ -35,8 +35,8 @@ Bidrag bör [följa](docs/standard-for-public-code.html) de krav som anges i kri
 Granskare kommer också att säkerställa att bidrag är i linje med [offentlig kods värden](foreword.md#offentlig-kods-värden).
 Vidare kommer de att granska att bidraget överensstämmer med [standarderna](#standarder-att-följa) och förblir sammanhängande med helheten.
 
-Detta projekt använder [GitFlow-grenmodellen och arbetsflödet](https://nvie.com/posts/a-successful-git-branching-model/).
-När du har förgrenat detta kodförråd, se till att skapa en funktionsgren enligt GitFlow-modellen.
+Projektet använder [GitFlow-grenmodellen och arbetsflödet](https://nvie.com/posts/a-successful-git-branching-model/).
+När du har förgrenat kodförrådet, se till att skapa en funktionsgren enligt GitFlow-modellen.
 
 Lägg till dina ändringar i incheckningar [med ett meddelande som förklarar dem](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message).
 Om mer än en typ av ändring behövs, gruppera logiskt sammanhörande ändringar i separata incheckningar.
@@ -60,7 +60,7 @@ Vi hjälper dig att få det rätt i vår granskningsprocess och vi har också en
 
 #### Standarder att följa
 
-Detta är de standarder som standarden för offentlig kod använder.
+Följande standarder används av standarden för offentlig kod.
 Se till att dina bidrag är i linje med dem så att de kan sammanslås enklare.
 
 * [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) — för kravnivånyckelord
@@ -68,7 +68,7 @@ Se till att dina bidrag är i linje med dem så att de kan sammanslås enklare.
 
 ### 2. Ändringsbegäran
 
-När du skickar in ändringsbegäran, bifoga en beskrivning av problemet du försöker lösa och ärendenumret som denna ändringsbegäran åtgärdar.
+När du skickar in ändringsbegäran, bifoga en beskrivning av problemet du försöker lösa och ärendenumret som ändringsbegäran åtgärdar.
 Det föredras att varje ändringsbegäran hanterar ett enskilt ärende där det är möjligt.
 I vissa fall kan en enda uppsättning ändringar lösa flera ärenden — i så fall, se till att lista alla åtgärdade ärendenummer.
 
@@ -86,7 +86,7 @@ Om din dokumentation och kod har godkänts i granskning sammanslås den.
 
 ### 4. Fira
 
-Dina idéer, din dokumentation och din kod har blivit en integrerad del av detta projekt.
+Dina idéer, din dokumentation och din kod har blivit en integrerad del av projektet.
 Du är den hjälte inom öppen källkod vi behöver!
 
 Lägg gärna till ditt namn i [`AUTHORS`](AUTHORS.md)-filen genom en ändringsbegäran och få evig tillskrivning.
@@ -96,11 +96,11 @@ Lägg gärna till ditt namn i [`AUTHORS`](AUTHORS.md)-filen genom en ändringsbe
 Det auktoritativa språket för standarden för offentlig kod är engelska.
 
 Versioner på andra språk tillhandahålls av gemenskapen efter bästa förmåga.
-Dessa artighetsöversättningar kanske inte är aktuella med den engelska versionen, eftersom saknade översättningar inte fördröjer utgåvor.
+Artighetsöversättningarna kanske inte är aktuella med den engelska versionen, eftersom saknade översättningar inte fördröjer utgåvor.
 Vi bjuder in dig att hjälpa till att underhålla befintliga och lägga till nya [gemenskapsöversättningar av standarden](https://github.com/standard-for-public-code/community-translations-standard).
 
 ## Utgåvor
 
 Vi har särskild dokumentation för att skapa [nya utgåvor](/docs/releasing.md) och [beställa tryckta standarder](/docs/printing.md).
 
-För mer information om hur man använder och bidrar till detta projekt, läs [`README`](README.md).
+För mer information om hur man använder och bidrar till projektet, läs [`README`](README.md).

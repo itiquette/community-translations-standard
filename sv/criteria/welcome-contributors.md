@@ -35,21 +35,21 @@ Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 * Kontrollera om det finns publicerad aktivitetsstatistik.
 * Kontrollera om det finns en uppförandekod.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Lägg till en lista i kodbasen med andra resurser som [regelverk](../glossary.md#regelverk)sexperter, icke-statliga organisationer och akademiker skulle finna användbara för att förstå eller återanvända ert regelverk.
 * Överväg att lägga till kontaktuppgifter så att andra beslutsfattare som överväger samarbete kan be er om råd.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Se till att dokumentationen av styrningen inkluderar den nuvarande processen för hur man gör ändringar i styrningen.
-* Om gemenskapen har viss samsyn kring hur styrningen bör förändras, ta med dessa idéer formulerade som ambitioner i dokumentationen.
+* Om gemenskapen har viss samsyn kring hur styrningen bör förändras, ta med idéerna formulerade som ambitioner i dokumentationen.
 * Se till att ni vid behov har avsatt budget för granskningsprocessen för bidrag enligt överenskommelse i kodbasgemenskapen.
 * Se till att dokumentationen förklarar hur varje organisation är involverad i kodbasen, vilka resurser den har tillgängliga och under hur lång tid.
 * Stöd era erfarna beslutsfattare, utvecklare och formgivare att vara en del av gemenskapen så länge som möjligt.
 
 <p style="page-break-after: always;"></p>
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Svara snabbt på förfrågningar.
 * Håll era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.

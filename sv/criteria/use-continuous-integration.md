@@ -40,21 +40,21 @@ Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glos
 * Kontrollera att testresultaten kan granskas.
 * Kontrollera om data om källkodstäckning publiceras.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Involvera chefer samt utvecklare och formgivare så tidigt i processen som möjligt och håll dem engagerade genom hela utvecklingen av ert regelverk.
 * Se till att det också finns automatiserade tester uppsatta för regelverksdokumentation.
 * Åtgärda regelverksdokumentation skyndsamt om den underkänns i ett test.
 * Se till att källkoden speglar alla ändringar i regelverket (se [Upprätthåll versionshantering](maintain-version-control.md)).
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Se till att testa med verkliga slutanvändare så snabbt och ofta som möjligt.
 * Planera arbetet så att små delar integreras mycket ofta i stället för stora delar mer sällan.
 * Upphandla konsulttjänster som levererar stegvis i linje med planen.
 * Uppmuntra efter ett allvarligt fel till att publicera incidentrapporter och offentlig diskussion om vad som lärdes.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Hjälp chefer att strukturera arbetsplanen så att den kan integreras som små steg.
 * Hjälp bidragsgivare att begränsa omfattningen av sina bidrag och funktionsönskemål till att vara så små som rimligt.

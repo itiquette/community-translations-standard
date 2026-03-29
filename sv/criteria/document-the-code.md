@@ -18,9 +18,9 @@ Den gör det också enklare att bidra till kodbasen.
 * Dokumentationen MÅSTE innehålla en beskrivning av hur programvaran installeras och körs.
 * Dokumentationen MÅSTE innehålla exempel som demonstrerar nyckelfunktionaliteten.
 * Dokumentationen BÖR innehålla en översikt som är lätt att förstå för en bred publik. Målgruppen omfattar [allmänheten](../glossary.md#allmänheten) och journalister.
-* Dokumentationen BÖR innehålla ett avsnitt som beskriver hur man installerar och kör en fristående version av programvaran. Detta inbegriper en testdatamängd vid behov.
+* Dokumentationen BÖR innehålla ett avsnitt som beskriver hur man installerar och kör en fristående version av programvaran. Det inbegriper en testdatamängd vid behov.
 * Dokumentationen BÖR innehålla exempel för all funktionalitet.
-* Dokumentationen BÖR beskriva nyckelkomponenter eller moduler och deras inbördes relationer. Detta kan till exempel göras som ett övergripande arkitekturdiagram.
+* Dokumentationen BÖR beskriva nyckelkomponenter eller moduler och deras inbördes relationer. Det kan till exempel göras som ett övergripande arkitekturdiagram.
 * Det BÖR finnas tester för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) av dokumentationens kvalitet.
 
 ## Hur du testar
@@ -34,17 +34,17 @@ Den gör det också enklare att bidra till kodbasen.
 * Kontrollera att dokumentationen innehåller ett övergripande arkitekturdiagram eller liknande.
 * Kontrollera att dokumentationskvaliteten är en del av integreringstestningen. Kontrollera till exempel att dokumentation genereras korrekt och att länkar och bilder testas.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Stäm av regelbundet för att förstå hur den icke-regelverksrelaterade koden i kodbasen har förändrats.
 * Ge återkoppling om hur icke-regelverksrelaterad dokumentation kan göras tydligare.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
-* Försök att använda kodbasen så att ni kan ge återkoppling. Det kan förbättra hur [regelverket](../glossary.md#regelverk) och källkoden dokumenteras. Räcker till exempel dokumentationen för att övertyga en chef hos en annan offentlig organisation att använda denna kodbas?
+* Försök att använda kodbasen så att ni kan ge återkoppling. Det kan förbättra hur [regelverket](../glossary.md#regelverk) och källkoden dokumenteras. Räcker till exempel dokumentationen för att övertyga en chef hos en annan offentlig organisation att använda kodbasen?
 * Se till att ni förstår både regelverket och källkoden samt dokumentationen.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Stäm av regelbundet för att förstå hur den icke-källkodsrelaterade koden i kodbasen har förändrats.
 * Ge återkoppling om hur icke-källkodsdokumentation kan göras tydligare.

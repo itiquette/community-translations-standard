@@ -39,12 +39,12 @@ En princip om skyndsam granskning av [regelverk](../glossary.md#regelverk) förs
 * Kontrollera om grenskydd används i [versionshanteringssystemet](../glossary.md#versionshantering).
 * Kontrollera att det inte finns ett mönster av perioder mellan bidragsinlämning och granskning där bidragsgivaren behöver vänta längre än två arbetsdagar på meningsfull återkoppling.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Inför en princip om "fyra ögon" där allt, inte bara källkod, granskas.
 * Använd ett versionshanteringssystem eller en metod som möjliggör granskning och återkoppling.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Gör det till ett gemensamt mål att leverera utmärkt programvara.
 * Se till att det att skriva och granska bidrag till källkod, regelverk, dokumentation och tester värderas lika.
@@ -52,7 +52,7 @@ En princip om skyndsam granskning av [regelverk](../glossary.md#regelverk) förs
 * Se till att ingen bidragsgivare någonsin är ensam om att bidra till en kodbas.
 * Skapa ett mandat för utvecklare att prioritera skyndsam granskning av bidrag.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Be andra bidragsgivare till kodbasen att granska ert arbete, i er organisation eller utanför den.
 * Försök att svara på andras granskningsförfrågningar skyndsamt, och ge inledningsvis återkoppling om ändringens koncept.

@@ -27,16 +27,16 @@ Ju mindre ansträngning det krävs för att göra bidrag som accepteras av kodba
 * Bekräfta att det finns en sluten kanal för att rapportera säkerhetsproblem.
 * Bekräfta att det finns instruktioner för att rapportera säkerhetsproblem privat.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Följ [regelverk](../glossary.md#regelverk)sfrågor i kodbasen, så att en relevant extern regelverksexpert kan ställa upp frivilligt.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Följ förvaltningsfrågor i kodbasen, så att externa chefer med relevant erfarenhet kan ställa upp frivilligt.
 * Stöd era erfarna beslutsfattare, utvecklare och formgivare att fortsätta bidra till kodbasen så länge som möjligt.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Precis som för [granskningar](require-review-of-contributions.md), se till att svara på förfrågningar skyndsamt.
 * Håll era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.

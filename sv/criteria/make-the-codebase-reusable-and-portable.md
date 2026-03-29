@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Gör kodbasen återanvändbar och portabel
 
-Att skapa återanvändbar och portabel [kod](../glossary.md#kod) gör det möjligt för beslutsfattare, utvecklare och formgivare att återanvända det som har utvecklats, testa det, förbättra det och bidra med dessa förbättringar tillbaka, vilket leder till bättre kvalitet, billigare förvaltning och högre tillförlitlighet.
+Att skapa återanvändbar och portabel [kod](../glossary.md#kod) gör det möjligt för beslutsfattare, utvecklare och formgivare att återanvända det som har utvecklats, testa det, förbättra det och bidra med förbättringarna tillbaka, vilket leder till bättre kvalitet, billigare förvaltning och högre tillförlitlighet.
 
 Att genomtänkt och medvetet utforma en [kodbas](../glossary.md#kodbas) för återanvändning gör det möjligt att dela kodbasens uppdrag, vision och omfattning mellan flera parter.
 Kodbaser som utvecklas och används av flera parter har större sannolikhet att dra nytta av en självbärande gemenskap.
@@ -46,18 +46,18 @@ Källkod som inte förlitar sig på den situationsspecifika infrastrukturen hos 
 * Kontrollera att kodbasens filer och incheckningshistorik inte innehåller situationsspecifika data.
 * Kontrollera att programvaran kan driftsättas och köras utan tjänster eller plattformar som bara finns tillgängliga från en enda leverantör.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Dokumentera ert [regelverk](../glossary.md#regelverk) med tillräcklig tydlighet och detaljrikedom för att det ska kunna förstås utanför sitt ursprungliga sammanhang.
 * Se till att er organisation är listad som känd användare av kodbasen.
 * Identifiera andra organisationer som era team kan samarbeta med.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Se till att intressenter och verksamhetsansvariga förstår att återanvändbarhet är ett uttryckligt mål för kodbasen, eftersom det förbättrar den långsiktiga förvaltbarheten och ger hållbarhet åt kodbasen.
 * Se till att era team samarbetar med andra team.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 Källkod bör utformas:
 

@@ -8,9 +8,9 @@ redirect_from:
 
 Standarden för offentlig kod är en uppsättning kriterier som stödjer offentliga organisationer i att gemensamt utveckla och förvalta programvara och regelverk.
 
-Alla som utvecklar programvara eller regelverk med offentligt syfte kan använda denna standard för att arbeta mot offentliga tjänster av högre kvalitet som är mer kostnadseffektiva, med mindre risk och mer kontroll.
+Alla som utvecklar programvara eller regelverk med offentligt syfte kan använda standarden för att arbeta mot offentliga tjänster av högre kvalitet som är mer kostnadseffektiva, med mindre risk och mer kontroll.
 
-Detta förord introducerar begreppet offentlig kod och förklarar varför det är viktigt.
+Förordet introducerar begreppet offentlig kod och förklarar varför det är viktigt.
 
 ## Definition av offentlig kod
 
@@ -52,8 +52,8 @@ Offentliga institutioner, tjänstepersoner och invånare förtjänar bättre.
 
 Vi anser att den programvara som driver vårt samhälle inte längre kan vara en svart låda, kontrollerad av utomstående företag som håller den underliggande logiken i sin programvara dold i slutna kodbaser.
 I stället behöver myndigheter och de människor de tjänar teknisk suveränitet.
-Detta gör det möjligt för dem att bestämma och styra offentlig programvaras funktion, precis som de kan bestämma och styra regelverk som formulerats i lag.
-Medborgare och det civila samhället behöver insyn i denna programvara och möjlighet att utkräva ansvar.
+Det gör det möjligt för dem att bestämma och styra offentlig programvaras funktion, precis som de kan bestämma och styra regelverk som formulerats i lag.
+Medborgare och det civila samhället behöver insyn i programvaran och möjlighet att utkräva ansvar.
 
 Utformningen av programvara som grundläggande samhällsinfrastruktur bör hedra digitala medborgares rättigheter.
 
@@ -69,12 +69,12 @@ Offentlig programvara måste därför vara:
 
 Den måste spegla det samhälles värderingar den tjänar, till exempel genom att vara inkluderande och icke-diskriminerande.
 
-De flesta slutna programvarusystem som för närvarande används av offentliga organisationer uppfyller inte dessa krav.
+De flesta slutna programvarusystem som för närvarande används av offentliga organisationer uppfyller inte kraven.
 Offentlig kod gör det.
 
 ### Offentlig kods värden
 
-Vi anser att offentlig kod har dessa kärnvärden:
+Vi anser att offentlig kod har följande kärnvärden:
 
 * Inkluderande
 * Användbar
@@ -99,7 +99,7 @@ Den delade arbetsbelastningen är mer hållbar nu och i framtiden.
 Koden blir enklare att omforma, återanvända för nytt ändamål eller avveckla.
 Allt detta resulterar i offentlig infrastruktur med lägre risk.
 
-Denna samling av resurser låter offentliga förvaltningar ägna extra uppmärksamhet åt hur programvaran anpassas så att den fungerar bäst i varje lokalt sammanhang, vilket skapar bättre användarupplevelser för deras slutanvändare (invånare eller medborgare).
+Samlingen av resurser låter offentliga förvaltningar ägna extra uppmärksamhet åt hur programvaran anpassas så att den fungerar bäst i varje lokalt sammanhang, vilket skapar bättre användarupplevelser för deras slutanvändare (invånare eller medborgare).
 
 ### Offentlig kods ekonomi
 
@@ -112,7 +112,7 @@ Eftersom koden är öppen kan den offentliga förvaltningen byta leverantör vid
 Mindre upphandlingar är enklare för lokala små och medelstora företag att lämna anbud på.
 Offentliga förvaltningar kan använda sina egna programvaruinköp för att stimulera innovation och konkurrens i sin lokala ekonomi.
 
-Detta kan ses som en investering som leder till framtida ekonomisk tillväxt.
+Det kan ses som en investering som leder till framtida ekonomisk tillväxt.
 Fler leverantörer kommer att behövas på grund av ökande teknikefterfrågan.
 
 ### Att upphandla offentlig kod
@@ -125,7 +125,7 @@ För att uppmuntra nytänkande anpassning av den offentliga koden till ditt samm
 
 ## Målen för standarden för offentlig kod
 
-Denna standard stödjer utvecklare, formgivare, chefer och offentliga beslutsfattare att:
+Standarden stödjer utvecklare, formgivare, chefer och offentliga beslutsfattare att:
 
 * utveckla högkvalitativ programvara och regelverk för bättre leverans av offentliga tjänster
 * utveckla kodbaser som kan återanvändas mellan sammanhang och gemensamt förvaltas
@@ -143,7 +143,7 @@ Standarden för offentlig kod gör detta genom att:
 
 Standarden för offentlig kod är avsedd att vara oberoende av tid och teknik.
 
-### Vem detta är till för
+### Vem standarden är till för
 
 Standarden för offentlig kod är till för de människor som skapar och återanvänder offentlig kod:
 
@@ -151,7 +151,7 @@ Standarden för offentlig kod är till för de människor som skapar och återan
 * verksamhets- och projektchefer
 * utvecklare och formgivare
 
-Dessa personer arbetar på:
+De arbetar på:
 
 * institutioner, organisationer och förvaltningar inom offentlig sektor
 * konsultföretag och leverantörer av informationsteknik och regelverkstjänster till offentliga organisationer
@@ -169,7 +169,7 @@ Den riktar sig inte till offentliga organisationers slutanvändare (invånare el
 
 ## Engagera dig
 
-Denna standard är ett levande dokument.
+Standarden är ett levande dokument.
 [Läs vår bidragsguide](/CONTRIBUTING.md) för att lära dig hur du kan göra den bättre.
 
 ## Kontakt

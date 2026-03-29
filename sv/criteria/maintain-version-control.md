@@ -10,7 +10,7 @@ redirect_from:
 
 [Versionshantering](../glossary.md#versionshantering) innebär att följa ändringar i [källkoden](../glossary.md#källkod) och andra filer i [kodbasen](../glossary.md#kodbas) över tid.
 Det gör det möjligt att upprätthålla en strukturerad dokumentation av kodbasens historik.
-Detta är avgörande för storskaligt samarbete, eftersom det gör det möjligt för utvecklare att arbeta med ändringar parallellt och hjälper framtida utvecklare att förstå anledningarna till ändringar.
+Det är avgörande för storskaligt samarbete, eftersom det gör det möjligt för utvecklare att arbeta med ändringar parallellt och hjälper framtida utvecklare att förstå anledningarna till ändringar.
 
 ## Krav
 
@@ -33,7 +33,7 @@ Detta är avgörande för storskaligt samarbete, eftersom det gör det möjligt 
 * Kontrollera att det är möjligt att nå en specifik version av kodbasen, till exempel genom en revisionsetikett eller en textetikett.
 * Kontrollera att filformaten som används i kodbasen är textformat där det är möjligt.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Om en ny version av kodbasen skapas på grund av en [regelverk](../glossary.md#regelverk)sändring, se till att det framgår tydligt av dokumentationen:
   * vad regelverksändringen innebär,
@@ -41,11 +41,11 @@ Detta är avgörande för storskaligt samarbete, eftersom det gör det möjligt 
 
 Till exempel skulle tillägg av en ny sökandekategori i en kodbas som hanterar tillståndsgivning betraktas som en regelverksändring.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Stöd beslutsfattare, utvecklare och formgivare att vara tydliga med vilka förbättringar de gör i kodbasen. Att göra förbättringar är inte en kommunikationsrisk.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Se till att alla filer som krävs för att förstå koden, bygga och driftsätta finns i versionshanteringssystemet.
 * Skriv tydliga incheckningsmeddelanden så att det är lätt att förstå varför incheckningen gjordes.

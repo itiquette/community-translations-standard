@@ -28,7 +28,7 @@ För att kunna bedöma om en kodbas ska genomföras i ett nytt sammanhang behöv
 * Kontrollera om regelverket kan tolkas av en maskin.
 * Kontrollera att testerna för kontinuerlig integrering för sammanhängande verkställande av källkod och regelverk godkänns.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Samarbeta med utvecklare och formgivare för att säkerställa att det inte finns någon diskrepans mellan regelverkskod och källkod.
 * Tillhandahåll relevanta regelverkstexter för medtagning i [kodförrådet](../glossary.md#kodförråd); om texten inte finns tillgänglig på engelska, tillhandahåll även en engelsk sammanfattning. Se till att ta med standarder som er organisation har valt att följa och alla organisatoriska processer som påverkar utvecklingen eller driftsättningssammanhanget för kodbasen i er organisation.
@@ -38,12 +38,12 @@ För att kunna bedöma om en kodbas ska genomföras i ett nytt sammanhang behöv
 * Stäm av regelbundet för att förstå hur källkoden i kodbasen har förändrats och om den fortfarande överensstämmer med [regelverkets intentioner](document-codebase-objectives.md).
 * Ta med relevanta regelverk som påverkar gemenskapen, kodbasen och utvecklingen, inbegripet rättsliga skyldigheter som [dataskyddsförordningen](https://eur-lex.europa.eu/eli/reg/2016/679/oj) eller [EU:s tillgänglighetsdirektiv för webben](https://ec.europa.eu/digital-single-market/en/web-accessibility), eller rättighetsregelverk, som en offentlig organisations åtagande om lika möjligheter.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Håll beslutsfattare, utvecklare och formgivare involverade och sammankopplade genom hela utvecklingsprocessen.
 * Säkerställ att beslutsfattare, utvecklare och formgivare arbetar mot samma mål.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Sätt er in i och lär er använda den processmodelleringsnotation som beslutsfattarna i er organisation använder.
 * Arbeta tillsammans med beslutsfattare för att säkerställa att det inte finns någon diskrepans mellan regelverkskod och källkod.

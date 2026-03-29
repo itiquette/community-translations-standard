@@ -30,16 +30,16 @@ Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen
 * Kontrollera att kodbasens versioneringsschema är dokumenterat och följs.
 * Kontrollera att det finns versionsinformation.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * När ni utvecklar [regelverk](../glossary.md#regelverk), förstå att all [källkod](../glossary.md#källkod) som utvecklas behöver testas och förbättras innan den kan tas i bruk.
 * Överväg att versionera regelverksändringar, särskilt när de utlöser nya versioner av källkoden.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Se till att tjänster bara förlitar sig på kodbasversioner med lika eller högre mognad än tjänsten. Använd till exempel inte en betaversion av en kodbas i en produktionstjänst.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Se till att kodbasens versioneringsmetod följs vid alla utgåvor.
 

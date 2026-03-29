@@ -43,20 +43,20 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 * Kontrollera poster med unika och bestående identifierare för kodbasens webbplats.
 * Kontrollera om det finns en maskinläsbar metadatabeskrivningsfil.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
-* Bidra med en beskrivning av det regelverksområde eller problem som denna kodbas verkar inom.
+* Bidra med en beskrivning av det regelverksområde eller problem som kodbasen verkar inom.
 * Testa er problembeskrivning med kollegor utanför ert sammanhang som inte är bekanta med kodbasen.
 * Presentera hur kodbasen genomför [regelverket](../glossary.md#regelverk) vid relevanta konferenser.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Sök i varumärkesdatabaser för att undvika förväxling eller intrång innan ni bestämmer namnet.
 * Använd den korta beskrivningen varhelst kodbasen refereras, till exempel som beskrivning för konton i sociala medier.
 * Budgetera för kompetens inom innehållsutformning och sökmotoroptimering i teamet.
 * Se till att de som är involverade i projektet presenterar vid relevanta konferenser.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Sökmotoroptimering, till exempel genom att lägga till en [webbplatskarta](https://www.sitemaps.org/protocol.html).
 * Använd den korta beskrivningen varhelst kodbasen refereras, till exempel som kodförrådets beskrivning.
@@ -68,4 +68,4 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 
 * [Introduction to Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction) av Wikidata-gemenskapen.
 * [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page) av Free Software Foundation.
-* [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) av GO FAIR International Support and Coordination Office tillhandahåller en bra lista med egenskaper som gör (meta)data mer maskinellt handlingsbara (och därmed mer sökbara). Vissa av dessa gäller direkt för kodbaser, medan andra kan inspirera till utforskande av vad motsvarigheten för kodbaser skulle vara.
+* [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) av GO FAIR International Support and Coordination Office tillhandahåller en bra lista med egenskaper som gör (meta)data mer maskinellt handlingsbara (och därmed mer sökbara). Vissa gäller direkt för kodbaser, medan andra kan inspirera till utforskande av vad motsvarigheten för kodbaser skulle vara.

@@ -22,7 +22,7 @@ Ytterligare sammanhang och bakgrund finns i [förordet](foreword.md).
 
 ## Innehåll
 
-* [Läsanvisning: hur du tolkar denna standard](readers-guide.md)
+* [Läsanvisning: hur du tolkar standarden](readers-guide.md)
 * [Ordlista](glossary.md)
 * [Kriterier](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/sv/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
   * [{{page.title}}]({{page.url | relative_url}}){% endif%}{% endif%}{% endif%}{% endfor %}

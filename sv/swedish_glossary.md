@@ -4,7 +4,7 @@
 ---
 # Svensk terminologiordlista
 
-Denna ordlista dokumenterar de svenska översättningsvalen för engelska termer som används i standarden för offentlig kod.
+Ordlistan dokumenterar de svenska översättningsvalen för engelska termer som används i standarden för offentlig kod.
 Syftet är att säkerställa enhetlig terminologi genom hela översättningen och underlätta för framtida översättare och granskare.
 
 ## Grundbegrepp

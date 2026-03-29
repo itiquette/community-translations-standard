@@ -39,18 +39,18 @@ Språk som är lätt att förstå sänker kostnaden för att skapa och underhål
 * Kontrollera att det inte finns oförklarade förkortningar, akronymer, ordlekar eller juridiska/språkliga/domänspecifika termer i dokumentationen.
 * Kontrollera stavning, grammatik och läsbarhet i dokumentationen.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Testa regelbundet med andra chefer, utvecklare och formgivare i processen om de förstår vad ni levererar och hur ni dokumenterar det.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Fastställ vilka språk som är auktoritativa för kodbasens dokumentation, med hänvisning till relevant regelverk om tillämpligt.
 * Säkerställ att det finns bemanning eller budget för att tillhandahålla översättning till auktoritativa språk.
 * Försök att begränsa användningen av förkortningar, akronymer, ordlekar eller juridiska/språkliga/domänspecifika termer i intern kommunikation inom och mellan team och intressenter. Lägg till sådana termer i en ordlista och länka till den från de ställen de används.
 * Var kritisk mot dokumentation och beskrivningar i förslag och ändringar. Om ni inte förstår något kommer andra förmodligen också ha svårt med det.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Testa regelbundet med beslutsfattare och chefer om de förstår vad ni levererar och hur ni dokumenterar det.
 * Fråga någon utanför ert sammanhang om de förstår innehållet (till exempel en utvecklare som arbetar med en annan kodbas).

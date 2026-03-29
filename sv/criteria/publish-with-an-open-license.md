@@ -9,7 +9,7 @@ redirect_from:
 # Publicera under öppen licens
 
 En öppen och välkänd licens gör det möjligt för vem som helst att se [källkoden](../glossary.md#källkod) för att förstå hur den fungerar, att fritt använda den och att bidra till [kodbasen](../glossary.md#kodbas).
-Detta möjliggör att ett leverantörsekosystem kan växa fram kring kodbasen.
+Det möjliggör att ett leverantörsekosystem kan växa fram kring kodbasen.
 
 Att tydligt ange licensen för varje fil i en kodbas underlättar korrekt återanvändning och tillskrivning av delar av en kodbas.
 
@@ -30,17 +30,17 @@ Att tydligt ange licensen för varje fil i en kodbas underlättar korrekt återa
 * Bekräfta att riktlinjer för bidrag och [kodförråds](../glossary.md#kodförråd)konfiguration inte kräver överföring av upphovsrätt.
 * Kontrollera att det finns maskinläsbar licenskontroll i kodbasens tester för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering).
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Utveckla [regelverk](../glossary.md#regelverk) som kräver att källkod är [öppen källkod](../glossary.md#öppen-källkod).
 * Utveckla regelverk som motverkar icke-öppen källkod och teknik vid upphandling.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Arbeta bara med leverantörer av öppen källkod som levererar sin källkod genom att publicera den under en öppen källkodslicens.
 * Var medveten om att även om [Creative Commons-licenser](https://creativecommons.org/licenses/) är utmärkta för dokumentation, uppfyller licenser som anger Icke-kommersiell eller Inga bearbetningar INTE kraven på att vara fritt återanvändbara, ändringsbara och vidaredistribuerbara.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Lägg till en ny `license`-fil till varje ny kodbas som skapas.
 * Lägg till ett upphovsrättsmeddelande och ett licenshuvud till varje ny källkodsfil som skapas.
@@ -49,7 +49,7 @@ Att tydligt ange licensen för varje fil i en kodbas underlättar korrekt återa
 <p style="page-break-after: always;"></p>
 ## Vidare läsning
 
-* [Open source definition](https://opensource.org/osd) av Open Source Initiative — alla licenser för öppen källkod uppfyller denna definition.
+* [Open source definition](https://opensource.org/osd) av Open Source Initiative — alla licenser för öppen källkod uppfyller definitionen.
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) av Creative Commons Aotearoa New Zealand.
 * [REUSE Initiative specification](https://reuse.software/spec/) av Free Software Foundation Europe för entydig, människoläsbar och maskinläsbar upphovsrätts- och licensinformation.
 * [SPDX License List](https://spdx.org/licenses/) av Linux Foundation med standardiserade, maskinläsbara förkortningar för de flesta licenser.

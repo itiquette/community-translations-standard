@@ -7,14 +7,14 @@
 ## Kod
 
 Varje uttryckligen beskrivet system av regler.
-Detta omfattar lagar, regelverk och förordningar, liksom källkod som används för att bygga programvara.
-Bägge dessa är regler — vissa utförs av människor och andra av maskiner.
+Det omfattar lagar, regelverk och förordningar, liksom källkod som används för att bygga programvara.
+Båda är regler — vissa utförs av människor och andra av maskiner.
 
 ## Kodbas
 
 Varje avgränsat paket av kod (både källkod och regelverk), de tester och den dokumentation som krävs för att genomföra ett regelverk eller en programvara.
 
-Detta kan till exempel vara ett dokument eller ett kodförråd med versionshantering.
+Det kan till exempel vara ett dokument eller ett kodförråd med versionshantering.
 
 ## Kontinuerlig integrering
 
@@ -28,7 +28,7 @@ Två sammanhang är olika om de tillhör olika offentliga organisationer eller o
 
 Allmänheten i stort: slutanvändare av koden och de tjänster som bygger på den.
 
-Till exempel betraktas en kommuns invånare som slutanvändare av kommunens tjänster och av all kod som driver dessa tjänster.
+Till exempel betraktas en kommuns invånare som slutanvändare av kommunens tjänster och av all kod som driver tjänsterna.
 
 ## Öppen källkod
 

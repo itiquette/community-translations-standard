@@ -23,20 +23,20 @@ Att ena terminologin minskar friktionen i kommunikationen mellan bidragsgivare.
 * Bekräfta att bidrag är i linje med de stilguider som anges i dokumentationen.
 * Kontrollera om det finns automatiserade stiltest.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
-* Skapa, följ och förbättra kontinuerligt en stilguide för [regelverk](../glossary.md#regelverk) och dokumentation och dokumentera detta i kodbasen, till exempel i `CONTRIBUTING`- eller `README`-filen.
+* Skapa, följ och förbättra kontinuerligt en stilguide för [regelverk](../glossary.md#regelverk) och dokumentation och dokumentera det i kodbasen, till exempel i `CONTRIBUTING`- eller `README`-filen.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Ta med standarder för skriftspråk, källkod, tester och regelverk i er organisations definition av kvalitet.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 Om kodbasen inte redan har tekniska riktlinjer eller annan vägledning för bidragsgivare, börja med att lägga till dokumentation i [kodförrådet](../glossary.md#kodförråd) som beskriver hur det görs nu, till exempel i `CONTRIBUTING`- eller `README`-filen.
 Ett viktigt syfte med filen är att kommunicera designval, namngivningskonventioner och andra aspekter som maskiner inte enkelt kan kontrollera.
 Vägledningen bör innefatta vad som förväntas av [källkods](../glossary.md#källkod)bidrag för att de ska sammanslås av förvaltarna, inbegripet källkod, tester och dokumentation.
-Förbättra och utöka denna dokumentation fortlöpande med målet att den ska utvecklas till tekniska riktlinjer.
+Förbättra och utöka dokumentationen fortlöpande med målet att den ska utvecklas till tekniska riktlinjer.
 
 Dessutom:
 

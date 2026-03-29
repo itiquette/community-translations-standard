@@ -24,17 +24,17 @@ Tillsammans skapar detta fler möjligheter för medborgare att förstå hur prog
 * Bekräfta att [kodbasens](../glossary.md#kodbas) filer och incheckningshistorik inte innehåller känslig information.
 * Kontrollera om källkod som för närvarande inte används har publicerats.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Utveckla regelverk öppet.
 * Prioritera öppna regelverk som möjliggör insyn.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Utveckla en kultur som omfamnar öppenhet, lärande och återkoppling.
 * Samarbeta med externa leverantörer och frilansare genom att arbeta öppet.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Som granskare, kontrollera vid varje incheckning att innehållet inte inkluderar känslig information såsom konfigurationer, användarnamn eller lösenord, öppna nycklar eller andra riktiga behörighetsuppgifter som används i produktionssystem.
 * Separera tydligt data och källkod för att uppfylla kravet om känslig information ovan.

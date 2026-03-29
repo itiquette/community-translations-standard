@@ -28,19 +28,19 @@ De möjliggör samverkan mellan system och minskar risken för leverantörsinlå
 * Bekräfta att alla icke-öppna standarder som används tydligt dokumenterats som sådana.
 * Bekräfta att dokumentationen innehåller en lista över de standarder som följs i kodbasen, var och en med en fungerande länk, eller ett uttalande om att inga standarder valts.
 
-## Offentliga beslutsfattare: detta behöver ni göra
+## Offentliga beslutsfattare: vad ni behöver göra
 
 * Föreskriva användning av öppna standarder överallt där det är möjligt.
 * Förbjuda upphandling av teknik som inte använder öppna standarder.
 
-## Chefer: detta behöver ni göra
+## Chefer: vad ni behöver göra
 
 * Överväg att ta med bedömning av efterlevnad av öppna standarder i [källkods](../glossary.md#källkod)granskningar.
 
-## Utvecklare och formgivare: detta behöver ni göra
+## Utvecklare och formgivare: vad ni behöver göra
 
 * Lägg till tester för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) som kontrollerar efterlevnad av standarderna.
-* Granska incheckningar och andra [kodförråds](../glossary.md#kodförråd)resurser för hänvisningar till standarder och kontrollera dessa mot listan över använda standarder.
+* Granska incheckningar och andra [kodförråds](../glossary.md#kodförråd)resurser för hänvisningar till standarder och kontrollera dem mot listan över använda standarder.
 
 ## Vidare läsning
 
