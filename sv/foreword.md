@@ -31,7 +31,7 @@ Den är i allt högre grad inte bara uttrycket för befintligt regelverk utan up
 
 Programvarans mekanismer, algoritmer och datainsamling har blivit nyckelelement i genomförandet av offentliga regelverk.
 Programkod verkställer nu regelverk som kodifierats i juridisk kod genom demokratiska förfaranden.
-Båda formerna av kod sätter villkoren för samhällets funktion i enlighet med demokratiskt fastställda offentliga värden — den senare verkställd av människor, den förra av maskiner.
+Båda formerna av kod sätter villkoren för samhällets funktion i enlighet med demokratiskt fastställda offentliga värden; den senare verkställd av människor, den förra av maskiner.
 Med andra ord har programkod i allt högre grad börjat motsvara juridisk kod.
 
 Programvara bör därför underkastas principerna för demokratisk styrning.

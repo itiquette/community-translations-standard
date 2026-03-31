@@ -118,6 +118,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | version history | versionshistorik | |
 | changelog | ändringslogg | |
 | release notes | versionsinformation | Sammanfattning per utgåva |
+| release version | utgåveversion | |
 | overview | översikt | Nytt i 0.8.1, ersätter "övergripande beskrivning" |
 
 ## Kravnivånyckelord (RFC 2119)

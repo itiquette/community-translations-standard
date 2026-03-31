@@ -18,7 +18,7 @@ Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen
 * Kodbasen MÅSTE vara versionshanterad.
 * Kodbasen MÅSTE tydligt dokumentera huruvida det finns versioner av kodbasen som är redo att användas.
 * Kodbasversioner som är redo att användas MÅSTE bara bero på versioner av andra kodbaser som också är redo att användas.
-* Kodbasen BÖR innehålla versionsinformation från version till version, till exempel i `RELEASE_NOTES`-filen.
+* Kodbasen BÖR innehålla en sammanfattning av ändringar från version till version, till exempel i `RELEASE_NOTES`-filen.
 * Metoden för att tilldela versionsidentifierare BÖR vara dokumenterad.
 * Att använda semantisk versionering är VALFRITT.
 
@@ -28,7 +28,7 @@ Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen
 * Bekräfta att det är uppenbart för beslutsfattare, chefer, utvecklare och formgivare huruvida kodbasen har versioner som är redo att användas.
 * Bekräfta att versioner av kodbasen som är redo att användas inte beror på versioner av andra kodbaser som inte är redo att användas.
 * Kontrollera att kodbasens versioneringsschema är dokumenterat och följs.
-* Kontrollera att det finns versionsinformation.
+* Kontrollera att det finns en sammanfattning av ändringar.
 
 ## Offentliga beslutsfattare: vad ni behöver göra
 

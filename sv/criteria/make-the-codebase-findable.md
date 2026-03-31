@@ -10,14 +10,14 @@ redirect_from:
 # Kodbasen ska vara lättfunnen
 
 Ju lättare en [kodbas](../glossary.md#kodbas) är att hitta, desto fler potentiella nya samarbetspartner kommer att finna den.
-Att bara publicera en kodbas och hoppas att den hittas fungerar inte — det krävs aktivt arbete.
+Att bara publicera en kodbas och hoppas att den hittas fungerar inte; det kräver aktivt arbete.
 
 En metadatabeskrivningsfil ökar upptäckbarheten.
 Välskriven metadata med en unik och bestående identifierare, såsom ett Wikidata-objekt eller en FSF-programvarukatalogpost (och därmed en del av den semantiska webben), gör kodbasen enklare att referera till, citera, särskilja och upptäcka via tredjepartsverktyg.
 
 ## Krav
 
-* Kodbasens namn BÖR vara beskrivande och fritt från förkortningar, akronymer, ordlekar eller organisatorisk profilering.
+* Kodbasens namn BÖR vara beskrivande och fritt från förkortningar, akronymer, ordlekar eller organisationsvarumärke.
 * Kodbasen BÖR ha en kort beskrivning som hjälper någon förstå vad kodbasen är till för eller vad den gör.
 * Förvaltare BÖR anmäla kodbasen till relevanta programvarukataloger.
 * Kodbasen BÖR ha en webbplats som beskriver problemet kodbasen löser med hjälp av den terminologi som föredras av olika potentiella användare av kodbasen (däribland tekniker, regelverksexperter och chefer).
@@ -32,7 +32,7 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 
 * Kontrollera att kodbasens namn är beskrivande och fritt från ordlekar.
 * Kontrollera att kodbasens namn är fritt från förkortningar och akronymer, eller att förkortningarna eller akronymerna i namnet är mer allmänt kända än de längre formerna.
-* Kontrollera att kodbasens namn är fritt från organisatorisk profilering, såvida inte den organisationen är kodbasgemenskapens egen.
+* Kontrollera att kodbasens namn är fritt från organisationsvarumärke, såvida inte den organisationen är kodbasgemenskapens egen.
 * Kontrollera att kodförrådets kodbas har en kort beskrivning.
 * Kontrollera om kodbasen är listad i relevanta programvarukataloger.
 * Kontrollera om det finns en webbplats för kodbasen som beskriver problemet kodbasen löser.

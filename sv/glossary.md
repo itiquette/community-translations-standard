@@ -8,7 +8,7 @@
 
 Varje uttryckligen beskrivet system av regler.
 Det omfattar lagar, regelverk och förordningar, liksom källkod som används för att bygga programvara.
-Båda är regler — vissa utförs av människor och andra av maskiner.
+Båda är regler där vissa utförs av människor och andra av maskiner.
 
 ## Kodbas
 

@@ -6,7 +6,8 @@
 
 ## Översättning till svenska
 
-* [Ange ditt namn här]
+* Anton Wiklund, [Swedish Public Employment Service](https://arbetsformedlingen.se/)
+* Josef Andersson, [Agency for Digital Government](https://www.digg.se/)
 
 ## Upphovspersoner till originaltexten
 
