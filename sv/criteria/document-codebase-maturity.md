@@ -9,8 +9,8 @@ redirect_from:
 ---
 # Dokumentera kodbasens mognad
 
-Att tydligt signalera en [kodbas](../glossary.md#kodbas) mognad hjälper andra att avgöra om de ska använda och bidra till den.
-En kodbasversions mognad inkluderar mognaden hos dess beroenden.
+Att tydligt signalera en [kodbas'](../glossary.md#kodbas) mognad hjälper andra att avgöra om de ska använda och bidra till den.
+En kodbasversions mognad innefattar mognaden hos dess beroenden.
 Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen och hur man bidrar till den.
 
 ## Krav

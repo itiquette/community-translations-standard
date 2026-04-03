@@ -18,7 +18,7 @@ Det kan till exempel vara ett dokument eller ett kodförråd med versionshanteri
 
 ## Kontinuerlig integrering
 
-Inom programvaruutveckling är kontinuerlig integrering (KI) praxis att så ofta som rimligt sammanslå alla utvecklares arbetskopior till en utvecklingsgren i en kodbas.
+Inom programvaruutveckling är kontinuerlig integrering (CI) praxis att så ofta som rimligt sammanslå alla utvecklares arbetskopior till en utvecklingsgren i en kodbas.
 
 ## Olika sammanhang
 

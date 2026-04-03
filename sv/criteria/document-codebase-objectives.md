@@ -20,7 +20,7 @@ Målen ger också ett enkelt sätt för människor att avgöra om kodbasen, elle
 
 ## Hur du testar
 
-* Bekräfta att kodbasens dokumentation inkluderar kodbasens mål, uppdrag eller målbeskrivning.
+* Bekräfta att kodbasens dokumentation innehåller kodbasens mål, uppdrag eller målbeskrivning.
 * Kontrollera om det finns beskrivningar av kopplingarna mellan regelverkets mål och kodbasens mål.
 
 ## Offentliga beslutsfattare: vad ni behöver göra

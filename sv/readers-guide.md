@@ -14,7 +14,7 @@ Nedan följer en kort förklaring av vart och ett av avsnitten och hur de använ
 
 ## Inledning
 
-Avsnittet förklarar vad kriteriet syftar till att uppnå och varför det är viktigt för en kodbas användare och bidragsgivare.
+Avsnittet förklarar vad kriteriet syftar till att uppnå och varför det är viktigt för en kodbas' användare och bidragsgivare.
 
 ## Krav
 
@@ -63,7 +63,7 @@ Utvecklare är vanligtvis mer tekniskt inriktade och har större inverkan på le
 ## Avgränsning
 
 Standarden för offentlig kod är inte avsedd att täcka enskilda driftsättningar av en kodbas.
-Det innebär att standarden inte talar om för de som driftsätter hur de ska följa sin organisations lokala tekniska infrastruktur eller rättsliga ramverk.
+Det innebär att standarden inte talar om för de som driftsätter hur de ska anpassa sig till sin organisations lokala tekniska infrastruktur eller rättsliga ramverk.
 
 Även om standarden för offentlig kod hänvisar till flera standarder och har betydande överlappning med andra, är dess syfte att möjliggöra samarbete.
 Därför syftar den inte till att ersätta kvalitetsstandarder, som ISO 25000-serien, eller sådana som fokuserar på säkerhet, som [OpenSSF Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge), utan att samverka väl med dem.

@@ -14,7 +14,7 @@ Ju oftare sammanslagning sker och ju mindre bidraget är, desto enklare är det 
 Automatiserad testning av all funktionalitet ger förtroende för att bidrag fungerar som avsett och inte har infört fel, och gör det möjligt för granskare att fokusera på bidragets struktur och tillvägagångssätt.
 Ju mer fokuserat testet är, desto enklare är det att tydligt identifiera och förstå fel när de uppstår.
 
-Att dokumentera en kodbas arbetsflöde för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) hjälper bidragsgivare att förstå vad som förväntas av bidrag.
+Att dokumentera en kodbas' arbetsflöde för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) hjälper bidragsgivare att förstå vad som förväntas av bidrag.
 Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glossary.md#kodbas) tillstånd.
 
 ## Krav
@@ -42,7 +42,7 @@ Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glos
 
 ## Offentliga beslutsfattare: vad ni behöver göra
 
-* Involvera chefer samt utvecklare och formgivare så tidigt i processen som möjligt och håll dem engagerade genom hela utvecklingen av ert regelverk.
+* Engagera chefer samt utvecklare och formgivare så tidigt i processen som möjligt och håll dem engagerade genom hela utvecklingen av ert regelverk.
 * Se till att det också finns automatiserade tester uppsatta för regelverksdokumentation.
 * Åtgärda regelverksdokumentation skyndsamt om den underkänns i ett test.
 * Se till att källkoden speglar alla ändringar i regelverket (se [Upprätthåll versionshantering](maintain-version-control.md)).
@@ -52,14 +52,14 @@ Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glos
 * Se till att testa med verkliga slutanvändare så snabbt och ofta som möjligt.
 * Planera arbetet så att små delar integreras mycket ofta i stället för stora delar mer sällan.
 * Upphandla konsulttjänster som levererar stegvis i linje med planen.
-* Uppmuntra efter ett allvarligt fel till att publicera incidentrapporter och offentlig diskussion om vad som lärdes.
+* Efter ett allvarligt fel, uppmuntra till att publicera incidentrapporter och föra offentlig diskussion om vad som lärdes.
 
 ## Utvecklare och formgivare: vad ni behöver göra
 
 * Hjälp chefer att strukturera arbetsplanen så att den kan integreras som små steg.
 * Hjälp bidragsgivare att begränsa omfattningen av sina bidrag och funktionsönskemål till att vara så små som rimligt.
 * Hjälp chefer och beslutsfattare att testa sina bidrag, till exempel genom att testa deras bidrag för trasiga länkar eller stil.
-* Strukturera källkod som hanterar förhållanden som är svåra att skapa i en testmiljö på ett sätt som gör att förhållandena kan simuleras under testning. Resursutmattning som att lagringsutrymmet tar slut och misslyckad minnesallokering är typiska exempel på svårskapade förhållanden.
+* Om viss källkod hanterar förhållanden som är svåra att skapa i en testmiljö, strukturera den så att förhållandena kan simuleras under testning. Resursutmattning som att lagringsutrymmet tar slut och misslyckad minnesallokering är typiska exempel på svårskapade förhållanden.
 * Justera verktyg för testtäckning av kod för att undvika falsklarm till följd av inlining eller andra optimeringar.
 * Driftsätt ofta.
 * Integrera ert arbete minst en gång om dagen.

@@ -49,7 +49,7 @@ Att tydligt ange licensen för varje fil i en kodbas underlättar korrekt återa
 <p style="page-break-after: always;"></p>
 ## Vidare läsning
 
-* [Open source definition](https://opensource.org/osd) av Open Source Initiative — alla licenser för öppen källkod uppfyller definitionen.
+* [Open source definition](https://opensource.org/osd) av Open Source Initiative; alla licenser för öppen källkod uppfyller definitionen.
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) av Creative Commons Aotearoa New Zealand.
 * [REUSE Initiative specification](https://reuse.software/spec/) av Free Software Foundation Europe för entydig, människoläsbar och maskinläsbar upphovsrätts- och licensinformation.
 * [SPDX License List](https://spdx.org/licenses/) av Linux Foundation med standardiserade, maskinläsbara förkortningar för de flesta licenser.

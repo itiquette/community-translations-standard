@@ -19,7 +19,7 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 
 * Kodbasens namn BÖR vara beskrivande och fritt från förkortningar, akronymer, ordlekar eller organisationsvarumärke.
 * Kodbasen BÖR ha en kort beskrivning som hjälper någon förstå vad kodbasen är till för eller vad den gör.
-* Förvaltare BÖR anmäla kodbasen till relevanta programvarukataloger.
+* Underhållsansvariga BÖR anmäla kodbasen till relevanta programvarukataloger.
 * Kodbasen BÖR ha en webbplats som beskriver problemet kodbasen löser med hjälp av den terminologi som föredras av olika potentiella användare av kodbasen (däribland tekniker, regelverksexperter och chefer).
 * Kodbasen BÖR vara sökbar via en sökmotor med kodbasens namn.
 * Kodbasen BÖR vara sökbar via en sökmotor genom att beskriva problemet den löser på naturligt språk.
@@ -33,7 +33,7 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 * Kontrollera att kodbasens namn är beskrivande och fritt från ordlekar.
 * Kontrollera att kodbasens namn är fritt från förkortningar och akronymer, eller att förkortningarna eller akronymerna i namnet är mer allmänt kända än de längre formerna.
 * Kontrollera att kodbasens namn är fritt från organisationsvarumärke, såvida inte den organisationen är kodbasgemenskapens egen.
-* Kontrollera att kodförrådets kodbas har en kort beskrivning.
+* Kontrollera att kodbasens kodförråd har en kort beskrivning.
 * Kontrollera om kodbasen är listad i relevanta programvarukataloger.
 * Kontrollera om det finns en webbplats för kodbasen som beskriver problemet kodbasen löser.
 * Kontrollera att kodbasen visas i sökresultaten i mer än en stor sökmotor vid sökning efter kodbasens namn.
@@ -54,7 +54,7 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 * Sök i varumärkesdatabaser för att undvika förväxling eller intrång innan ni bestämmer namnet.
 * Använd den korta beskrivningen varhelst kodbasen refereras, till exempel som beskrivning för konton i sociala medier.
 * Budgetera för kompetens inom innehållsutformning och sökmotoroptimering i teamet.
-* Se till att de som är involverade i projektet presenterar vid relevanta konferenser.
+* Se till att de som deltar i projektet presenterar vid relevanta konferenser.
 
 ## Utvecklare och formgivare: vad ni behöver göra
 

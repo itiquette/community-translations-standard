@@ -35,8 +35,7 @@ Ytterligare sammanhang och bakgrund finns i [förordet](foreword.md).
 
 ## Gemenskapssamtal
 
-Vi har vanligtvis ett gemenskapssamtal den sista torsdagen i månaden klockan 15:00 (CET/CEST).
-Dagordningen samordnas på vårt [diskussionsforum](https://github.com/standard-for-public-code/standard-for-public-code/discussions/categories/community-calls) ungefär en vecka före samtalet.
+Delta i våra [gemenskapssamtal](https://community.standardforpubliccode.org/) eller säg hej på vårt [diskussionsforum](https://github.com/standard-for-public-code/standard-for-public-code/discussions).
 
 ## Övriga resurser
 

@@ -17,14 +17,14 @@ Kodbaser som utvecklas och används av flera parter har större sannolikhet att 
 Att organisera en kodbas så att den består av väldokumenterade moduler förbättrar återanvändbarheten och förvaltbarheten.
 En modul är enklare att återanvända i [ett annat sammanhang](../glossary.md#olika-sammanhang) om dess syfte är tydligt dokumenterat.
 
-Källkod som inte förlitar sig på den situationsspecifika infrastrukturen hos någon bidragsgivare, leverantör eller driftsättning kan testas av vilken annan bidragsgivare som helst.
+Om källkoden inte förlitar sig på den situationsspecifika infrastrukturen hos någon bidragsgivare, leverantör eller driftsättning, kan den testas av vilken annan bidragsgivare som helst.
 
 ## Krav
 
 * Kodbasen MÅSTE vara utvecklad för att vara återanvändbar i olika sammanhang.
 * Kodbasen MÅSTE vara oberoende av all hemlig, ej offentliggjord, sluten eller icke öppet licensierad programvara eller tjänster för körning och förståelse.
 * Kodbasen BÖR användas av flera parter.
-* Färdplanen BÖR påverkas av flera parters behov.
+* Framtidsplanen BÖR påverkas av flera parters behov.
 * Utvecklingen av kodbasen BÖR vara ett samarbete mellan flera parter.
 * Konfiguration BÖR användas för att låta [källkoden](../glossary.md#källkod) anpassas till sammanhangsspecifika behov.
 * Kodbasen BÖR vara lokaliserbar.
@@ -37,7 +37,7 @@ Källkod som inte förlitar sig på den situationsspecifika infrastrukturen hos 
 * Bekräfta med någon i en liknande roll hos en annan organisation om de kan använda kodbasen och vad det skulle innebära.
 * Bekräfta att kodbasen kan köras utan att använda sluten eller icke öppet licensierad programvara eller tjänster.
 * Om kodbasen är i tidig utveckling före en produktionsklar utgåva, kontrollera då om det finns tecken på ambition att få med sig samarbetspartner.
-   * Eller om kodbasen är mycket mogen och stabil med mycket sällsynta rättelser, lagningar eller bidrag:
+   * Eller om kodbasen är mycket mogen och stabil med mycket sällsynta rättelser, programfixar eller bidrag:
      * Kontrollera att kodbasen används av flera parter eller i flera sammanhang.
      * Kontrollera att det finns dokumenterade och budgeterade åtaganden för samarbete.
    * I övrigt:
@@ -69,7 +69,7 @@ Källkod bör utformas:
 Se till att kodbasens dokumentation beskriver beroenden vid byggtid och körtid.
 Om ert sammanhang kräver driftsättning på slutna plattformar eller användning av slutna komponenter, se till att samarbetspartner kan utveckla, använda, testa och driftsätta utan dem.
 
-Vid varje incheckning verifierar granskare att innehållet inte inkluderar situationsspecifika data såsom värdnamn, personuppgifter och organisationsdata, eller åtkomstnycklar och lösenord.
+Vid varje incheckning verifierar granskare att innehållet inte innehåller situationsspecifika data såsom värdnamn, personuppgifter och organisationsdata, eller åtkomstnycklar och lösenord.
 
 ## Vidare läsning
 

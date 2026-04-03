@@ -8,11 +8,11 @@ Standarden för offentlig kod är ett gemenskapsförvaltat projekt.
 
 ## Principer
 
-Gemenskapen för standarden för offentlig kod följer följande principer:
+Gemenskapen för standarden för offentlig kod har följande principer:
 
-- Öppenhet — så få begränsningar som möjligt för alla att anpassa standarden för offentlig kod till sitt sammanhang
-- Välkomnande och respektfullt — som gemenskap vill vi göra det enklare för nya användare att bli bidragsgivare
-- Insyn och tillgänglighet — ändringar av standarden för offentlig kod, dess styrning och all annan relaterad verksamhet görs öppet
+- Öppenhet; så få begränsningar som möjligt för alla att anpassa standarden för offentlig kod till sitt sammanhang
+- Välkomnande och respektfullt; som gemenskap vill vi göra det enklare för nya användare att bli bidragsgivare
+- Insyn och tillgänglighet; ändringar av standarden för offentlig kod, dess styrning och all annan relaterad verksamhet görs öppet
 - Idéer och bidrag godtas utifrån hur väl de stämmer överens med projektets mål, omfattning och utformningsprinciper
 
 ## Styrgrupp
@@ -40,13 +40,13 @@ I möjligaste mån bör ingen enskild organisation anställa en majoritet av sty
 
 Styrgruppens ledamöter är aktiva bidragsgivare som dagligen ansvarar för:
 
-- Sammanslagning av ändringsbegäranden
+- Sammanslagning av ändringsförfrågningar
 - Hantering av överträdelser av uppförandekoden
 
 Utöver den dagliga verksamheten har styrgruppen gemensamt ansvar för att:
 
 - Tillhandahålla teknisk riktning för kodbasen
-- Förvalta en färdplan och bidragsprinciper
+- Förvalta en framtidsplan och bidragsprinciper
 - Lösa utvecklingsfrågor eller konflikter mellan bidragsgivare
 - Hantera och planera utgåvor
 - Kontrollera åtkomsträttigheter till standarden för offentlig kods tillgångar såsom källkodsförråd, värdtjänster och projektkalendrar
@@ -59,7 +59,7 @@ Utöver den dagliga verksamheten har styrgruppen gemensamt ansvar för att:
 ### Möten
 
 Styrgruppen sammanträder regelbundet.
-Dagordningen omfattar genomgång av färdplanen och frågor som nått ett dödläge.
+Dagordningen omfattar genomgång av framtidsplanen och frågor som nått ett dödläge.
 Avsikten med dagordningen är inte att granska eller godkänna alla programfixar.
 (Granskning och godkännande av programfixar sker genom den process som beskrivs i [CONTRIBUTING.md](CONTRIBUTING.md).)
 
@@ -70,7 +70,7 @@ Beslutsprocessen bygger på samtycke som standard och omröstning för vissa fr�
 ### Samtycke
 
 I gemenskapen innebär "samtycke" att om du bedömer att ett beslut är okontroversiellt kan du helt enkelt gå vidare och fatta det beslutet.
-Varje beslut som fattas så anses ha stöd så länge ingen invänder.
+Varje beslut som fattas på detta sätt anses ha stöd så länge ingen invänder.
 Självfallet måste du vara beredd att återställa ditt arbete om någon invänder.
 
 Om det råder osäkerhet kring ett beslut kan en styrgruppsledamot informera övriga i gruppen om att hen avser att fatta ett visst beslut.
@@ -97,5 +97,5 @@ Med enkel majoritet avses att minst hälften av styrgruppens ledamöter har rös
 
 Standarden för offentlig kods uppförandekod beskrivs i [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-Om den möjliga överträdelsen involverar en ledamot ska denne inte delta i omröstningen i ärendet.
-Sådana ärenden ska eskaleras till styrgruppens kontaktperson, och styrgruppen kan välja att ingripa.
+Om den möjliga överträdelsen gäller en ledamot ska denne inte delta i omröstningen i ärendet.
+Sådana ärenden ska lyftas till styrgruppens kontaktperson, och styrgruppen kan välja att ingripa.

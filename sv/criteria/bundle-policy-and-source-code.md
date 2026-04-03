@@ -23,8 +23,8 @@ För att kunna bedöma om en kodbas ska genomföras i ett nytt sammanhang behöv
 
 ## Hur du testar
 
-* Bekräfta med en tjänsteperson att allt regelverk som källkoden bygger på finns med.
-* Bekräfta med en tjänsteperson att all källkod som regelverket bygger på finns inkluderad.
+* Bekräfta med en tjänsteperson att allt regelverk som källkoden bygger på finns innefattat.
+* Bekräfta med en tjänsteperson att all källkod som regelverket bygger på finns innefattad.
 * Kontrollera om regelverket kan tolkas av en maskin.
 * Kontrollera att testerna för kontinuerlig integrering för sammanhängande verkställande av källkod och regelverk godkänns.
 
@@ -40,7 +40,7 @@ För att kunna bedöma om en kodbas ska genomföras i ett nytt sammanhang behöv
 
 ## Chefer: vad ni behöver göra
 
-* Håll beslutsfattare, utvecklare och formgivare involverade och sammankopplade genom hela utvecklingsprocessen.
+* Håll beslutsfattare, utvecklare och formgivare delaktiga och sammankopplade genom hela utvecklingsprocessen.
 * Säkerställ att beslutsfattare, utvecklare och formgivare arbetar mot samma mål.
 
 ## Utvecklare och formgivare: vad ni behöver göra

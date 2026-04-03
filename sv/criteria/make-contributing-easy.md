@@ -40,7 +40,7 @@ Ju mindre ansträngning det krävs för att göra bidrag som accepteras av kodba
 
 * Precis som för [granskningar](require-review-of-contributions.md), se till att svara på förfrågningar skyndsamt.
 * Håll era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.
-* Se till att lämpliga kommunikationskanaler för att ställa frågor till förvaltare och intressenter är lätta att hitta, exempelvis i README-filen.
+* Se till att lämpliga kommunikationskanaler för att ställa frågor till underhållsansvariga och intressenter är lätta att hitta, exempelvis i README-filen.
 * Se till att lämpliga kontaktuppgifter finns med i metadata, exempelvis i publiccode.yml-filen.
 
 ## Vidare läsning

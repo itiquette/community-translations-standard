@@ -19,7 +19,7 @@ Det är avgörande för storskaligt samarbete, eftersom det gör det möjligt f�
 * Varje incheckningsmeddelande MÅSTE länka till diskussioner och ärenden där det är möjligt.
 * Kodbasen BÖR förvaltas i ett distribuerat versionshanteringssystem.
 * Riktlinjer för bidrag BÖR kräva att bidragsgivare grupperar sammanhörande ändringar i incheckningar.
-* Förvaltare BÖR märka utgivna versioner av kodbasen, till exempel med revisionsetiketter eller textetiketter.
+* Underhållsansvariga BÖR märka utgivna versioner av kodbasen, till exempel med revisionsetiketter eller textetiketter.
 * Riktlinjer för bidrag BÖR uppmuntra filformat där ändringarna inuti filerna enkelt kan ses och förstås i versionshanteringssystemet.
 * Det är VALFRITT för bidragsgivare att signera sina incheckningar och ange en e-postadress, så att framtida bidragsgivare kan kontakta tidigare bidragsgivare med frågor om deras arbete.
 

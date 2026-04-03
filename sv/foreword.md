@@ -27,18 +27,18 @@ Det finns många anledningar till varför offentlig kod är relevant nu.
 Programvara är offentlig infrastruktur.
 
 Under 2000-talet kan programvara anses vara viktig offentlig infrastruktur.
-Den är i allt högre grad inte bara uttrycket för befintligt regelverk utan upphovet till nytt regelverk, till exempel där algoritmer avgör vilka stadsdelar som behöver extra sociala insatser eller polisiära resurser.
+Programvaran uttrycker i allt högre grad inte bara befintligt regelverk utan ger även upphov till nya, till exempel när algoritmer avgör vilka stadsdelar som behöver extra sociala insatser eller polisresurser.
 
 Programvarans mekanismer, algoritmer och datainsamling har blivit nyckelelement i genomförandet av offentliga regelverk.
-Programkod verkställer nu regelverk som kodifierats i juridisk kod genom demokratiska förfaranden.
-Båda formerna av kod sätter villkoren för samhällets funktion i enlighet med demokratiskt fastställda offentliga värden; den senare verkställd av människor, den förra av maskiner.
+Programkod verkställer nu regelverk som formulerats genom demokratiska förfaranden.
+Båda formerna av kod sätter villkoren för hur samhället fungerar utifrån demokratiskt fastställda offentliga värden; lagstiftning verkställs av människor, programkod av maskiner.
 Med andra ord har programkod i allt högre grad börjat motsvara juridisk kod.
 
-Programvara bör därför underkastas principerna för demokratisk styrning.
+Programvara bör därför omfattas av principerna för demokratisk styrning.
 
 ### Traditionell offentlig upphandling av programvara
 
-Nuvarande metoder för offentlig programvaruproduktion har inte tjänat leveransen av offentliga tjänster väl.
+Nuvarande metoder för offentlig programvaruproduktion har inte gynnat leveransen av offentliga tjänster.
 
 Under det senaste årtiondet har offentliga organisationer som köpt färdiga programvarulösningar ibland blivit överraskade av att upptäcka att de:
 
@@ -46,7 +46,7 @@ Under det senaste årtiondet har offentliga organisationer som köpt färdiga pr
 * inte har tillgång till sina data eftersom de är inlåsta i slutna system
 * ombeds betala ständigt ökande licensavgifter
 
-### Teknisk suveränitet och demokratisk ansvarighet
+### Teknisk suveränitet och demokratiskt ansvarsutkrävande
 
 Offentliga institutioner, tjänstepersoner och invånare förtjänar bättre.
 
@@ -55,7 +55,7 @@ I stället behöver myndigheter och de människor de tjänar teknisk suveränite
 Det gör det möjligt för dem att bestämma och styra offentlig programvaras funktion, precis som de kan bestämma och styra regelverk som formulerats i lag.
 Medborgare och det civila samhället behöver insyn i programvaran och möjlighet att utkräva ansvar.
 
-Utformningen av programvara som grundläggande samhällsinfrastruktur bör hedra digitala medborgares rättigheter.
+Utformningen av programvara som grundläggande samhällsinfrastruktur bör värna digitala medborgares rättigheter.
 
 ### Att utforma verkligt offentlig programvara
 
@@ -67,7 +67,7 @@ Offentlig programvara måste därför vara:
 * ansvarsutkrävbar
 * begriplig för dem den tjänar
 
-Den måste spegla det samhälles värderingar den tjänar, till exempel genom att vara inkluderande och icke-diskriminerande.
+Den måste spegla värderingarna i det samhälle den tjänar, till exempel genom att vara inkluderande och icke-diskriminerande.
 
 De flesta slutna programvarusystem som för närvarande används av offentliga organisationer uppfyller inte kraven.
 Offentlig kod gör det.
@@ -91,7 +91,7 @@ Genom användning bidrar andra förvaltningar tillbaka till programvaran, så at
 
 Att vara öppen möjliggör mycket annat.
 
-Lokalt ansvar och demokratisk ansvarighet säkerställs när en offentlig organisation genomför och förvaltar sin egen offentliga kod.
+Lokalt ansvar och demokratiskt ansvarsutkrävande säkerställs när en offentlig organisation genomför och förvaltar sin egen offentliga kod.
 Genom att vara öppen och med en bredare bidragsgivarbas blir programvaran säkrare eftersom den drar nytta av att många ögon upptäcker potentiella brister.
 Många bidragsgivare delar förvaltningsarbetet för att hålla den funktionell och modern, vilket förbättrar den långsiktiga förvaltbarheten.
 Den delade arbetsbelastningen är mer hållbar nu och i framtiden.
@@ -99,7 +99,7 @@ Den delade arbetsbelastningen är mer hållbar nu och i framtiden.
 Koden blir enklare att omforma, återanvända för nytt ändamål eller avveckla.
 Allt detta resulterar i offentlig infrastruktur med lägre risk.
 
-Samlingen av resurser låter offentliga förvaltningar ägna extra uppmärksamhet åt hur programvaran anpassas så att den fungerar bäst i varje lokalt sammanhang, vilket skapar bättre användarupplevelser för deras slutanvändare (invånare eller medborgare).
+Genom att samla resurser kan offentliga förvaltningar ägna extra uppmärksamhet åt hur programvaran anpassas så att den fungerar bäst i varje lokalt sammanhang, vilket skapar bättre användarupplevelser för slutanvändarna (invånare eller medborgare).
 
 ### Offentlig kods ekonomi
 
@@ -108,7 +108,7 @@ Det är ett alternativ till traditionell programvaruupphandling som ökar lokal 
 
 Utformad från början för att vara öppen, anpassningsbar och med dataportabilitet kan den utvecklas av egen personal eller betrodda leverantörer.
 Eftersom koden är öppen kan den offentliga förvaltningen byta leverantör vid behov.
-Öppen kod ökar möjligheterna för offentlig granskning och insyn, vilket gör det möjligt för den offentliga förvaltningen att upphandla mindre avtal.
+Öppen kod ökar möjligheterna för offentligt lärande och granskning, vilket gör det möjligt för den offentliga förvaltningen att upphandla mindre avtal.
 Mindre upphandlingar är enklare för lokala små och medelstora företag att lämna anbud på.
 Offentliga förvaltningar kan använda sina egna programvaruinköp för att stimulera innovation och konkurrens i sin lokala ekonomi.
 
@@ -171,7 +171,3 @@ Den riktar sig inte till offentliga organisationers slutanvändare (invånare el
 
 Standarden är ett levande dokument.
 [Läs vår bidragsguide](/CONTRIBUTING.md) för att lära dig hur du kan göra den bättre.
-
-## Kontakt
-
-För frågor och mer information om Foundation for Public Code besök [vår webbplats](https://publiccode.net/), skicka e-post till info@publiccode.net eller ring +31 20 2 444 500.

@@ -20,7 +20,7 @@ Tillsammans skapar detta fler möjligheter för medborgare att förstå hur prog
 
 ## Hur du testar
 
-* Bekräfta att källkoden för varje version som för närvarande används är publicerad på internet där den kan ses utifrån den ursprungliga bidragande organisationen och utan behov av någon form av autentisering eller auktorisering.
+* Bekräfta att källkoden för varje version som för närvarande används är publicerad på internet där den kan ses utanför den ursprungliga bidragande organisationen och utan behov av någon form av autentisering eller auktorisering.
 * Bekräfta att [kodbasens](../glossary.md#kodbas) filer och incheckningshistorik inte innehåller känslig information.
 * Kontrollera om källkod som för närvarande inte används har publicerats.
 
@@ -36,7 +36,7 @@ Tillsammans skapar detta fler möjligheter för medborgare att förstå hur prog
 
 ## Utvecklare och formgivare: vad ni behöver göra
 
-* Som granskare, kontrollera vid varje incheckning att innehållet inte inkluderar känslig information såsom konfigurationer, användarnamn eller lösenord, öppna nycklar eller andra riktiga behörighetsuppgifter som används i produktionssystem.
+* Som granskare, kontrollera vid varje incheckning att innehållet inte innehåller känslig information såsom konfigurationer, användarnamn eller lösenord, publika nycklar eller andra riktiga behörighetsuppgifter som används i produktionssystem.
 * Separera tydligt data och källkod för att uppfylla kravet om känslig information ovan.
 
 ## Vidare läsning

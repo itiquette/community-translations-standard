@@ -15,7 +15,7 @@ Därför kan en kodbas ha en uppsättning auktoritativa språk, däribland engel
 Information från offentlig sektor behöver vara tillgänglig för alla den berör.
 Enkelt och tydligt språk gör [koden](../glossary.md#kod) och vad den gör lättare att förstå för en bredare mångfald av människor.
 
-Översättningar utökar ytterligare en [kodbas](../glossary.md#kodbas) potentiella räckvidd.
+Översättningar utökar en [kodbas'](../glossary.md#kodbas) potentiella räckvidd ytterligare.
 Språk som är lätt att förstå sänker kostnaden för att skapa och underhålla översättningar.
 
 ## Krav

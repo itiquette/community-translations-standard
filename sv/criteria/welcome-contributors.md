@@ -8,9 +8,9 @@ redirect_from:
 ---
 # Välkomna bidragsgivare
 
-Atmosfären i en [kodbas](../glossary.md#kodbas) gemenskap hjälper användare att välja en kodbas framför en annan.
+Atmosfären i en [kodbas'](../glossary.md#kodbas) gemenskap hjälper användare att välja en kodbas framför en annan.
 Att välkomna vem som helst som bidragsgivare gör det möjligt för gemenskapen att växa och bestå över tid.
-En gemenskap där bidragsgivare har tydliga vägar att påverka kodbasens och gemenskapens mål och framsteg löper mindre risk att splittras och hamna i skilda gemenskaper.
+En gemenskap löper mindre risk att splittras om bidragsgivare har tydliga vägar att påverka kodbasens och gemenskapens mål och framsteg.
 Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 
 ## Krav
@@ -19,8 +19,8 @@ Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 * Kodbasen MÅSTE innehålla riktlinjer för bidrag som förklarar vilka typer av bidrag som välkomnas och hur bidragsgivare kan engagera sig, till exempel i en `CONTRIBUTING`-fil.
 * Kodbasen MÅSTE dokumentera styrningen av kodbasen, bidragen och dess gemenskap, till exempel i en `GOVERNANCE`-fil.
 * Riktlinjerna för bidrag BÖR dokumentera vem som förväntas stå för kostnaderna för granskning av bidrag.
-* Kodbasen BÖR synliggöra de involverade organisationernas uttalade engagemang i utvecklingen och förvaltningen.
-* Kodbasen BÖR ha en offentligt tillgänglig färdplan.
+* Kodbasen BÖR synliggöra de medverkande organisationernas uttalade engagemang i utvecklingen och förvaltningen.
+* Kodbasen BÖR ha en offentligt tillgänglig framtidsplan.
 * Kodbasen BÖR publicera statistik över kodbasens aktivitet.
 * Att ha med en uppförandekod för bidragsgivare i kodbasen är VALFRITT.
 
@@ -30,8 +30,8 @@ Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 * Bekräfta att det finns riktlinjer för bidrag.
 * Bekräfta att kodbasens styrning är tydligt beskriven, inbegripet hur man kan påverka styrningen.
 * Kontrollera att riktlinjerna för bidrag anger vem som förväntas stå för kostnaderna för granskning av bidrag.
-* Kontrollera om det finns en lista över involverade organisationer.
-* Kontrollera om det finns en färdplan.
+* Kontrollera om det finns en lista över medverkande organisationer.
+* Kontrollera om det finns en framtidsplan.
 * Kontrollera om det finns publicerad aktivitetsstatistik.
 * Kontrollera om det finns en uppförandekod.
 
@@ -42,10 +42,10 @@ Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 
 ## Chefer: vad ni behöver göra
 
-* Se till att dokumentationen av styrningen inkluderar den nuvarande processen för hur man gör ändringar i styrningen.
-* Om gemenskapen har viss samsyn kring hur styrningen bör förändras, ta med idéerna formulerade som ambitioner i dokumentationen.
+* Se till att dokumentationen av styrningen omfattar den nuvarande processen för hur man gör ändringar i styrningen.
+* Om gemenskapen har viss samsyn kring hur styrningen bör förändras, formulera idéerna som ambitioner och ta med dem i dokumentationen.
 * Se till att ni vid behov har avsatt budget för granskningsprocessen för bidrag enligt överenskommelse i kodbasgemenskapen.
-* Se till att dokumentationen förklarar hur varje organisation är involverad i kodbasen, vilka resurser den har tillgängliga och under hur lång tid.
+* Se till att dokumentationen förklarar hur varje organisation är engagerad i kodbasen, vilka resurser den har tillgängliga och under hur lång tid.
 * Stöd era erfarna beslutsfattare, utvecklare och formgivare att vara en del av gemenskapen så länge som möjligt.
 
 <p style="page-break-after: always;"></p>

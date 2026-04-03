@@ -30,7 +30,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | developers and designers | utvecklare och formgivare | |
 | contributor | bidragsgivare | |
 | reviewer | granskare | |
-| maintainer | förvaltare |  eller ska det var underhållare?|
+| maintainer | underhållsansvarig | |
 | stakeholder | intressent | |
 | civil servant | tjänsteperson | Könsneutral form |
 | vendor | leverantör | |
@@ -45,7 +45,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | commit (substantiv) | incheckning | |
 | commit (verb) | checka in | |
 | commit message | incheckningsmeddelande | |
-| pull request | ändringsbegäran | |
+| pull request | ändringsförfrågan | |
 | merge | sammanslå, sammanfoga, sammanslagning | |
 | branch | gren | |
 | branch protection | grenskydd | |
@@ -82,11 +82,12 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | contribution | bidrag | |
 | review | granskning | |
 | governance | styrning | |
-| roadmap | färdplan | |
+| roadmap | framtidsplan | |
 | code of conduct | uppförandekod | |
 | community | gemenskap | |
 | feedback | återkoppling | |
 | steering team | styrgrupp | Nytt i 0.8.1 |
+| steering team member | styrgruppsledamot | |
 | consent (beslut) | samtycke | I styrningssammanhang |
 | voting | omröstning | |
 | impasse | dödläge | |

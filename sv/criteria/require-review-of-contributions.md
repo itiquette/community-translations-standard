@@ -12,9 +12,9 @@ Kollegial granskning av bidrag är avgörande för [källkodens](../glossary.md#
 
 Att kräva grundlig granskning av bidrag uppmuntrar en kultur där man ser till att varje bidrag håller hög kvalitet, är fullständigt och skapar värde.
 Granskning av källkod ökar chansen att upptäcka och åtgärda potentiella programfel eller misstag innan de läggs till i [kodbasen](../glossary.md#kodbas).
-Vetskapen om att all källkod har granskats motverkar en kultur av att klandra enskilda och uppmuntrar en kultur som fokuserar på lösningar.
+Att all källkod granskas motverkar en kultur av att klandra enskilda och uppmuntrar i stället en kultur som fokuserar på lösningar.
 
-En princip om skyndsam granskning av [regelverk](../glossary.md#regelverk) försäkrar bidragsgivare om en garanterad tid för återkoppling eller gemensam förbättring, vilket ökar både leveranstakten och bidragsgivarnas engagemang.
+En princip om skyndsam granskning försäkrar bidragsgivare om en garanterad tid för återkoppling eller gemensam förbättring, vilket ökar både leveranstakten och bidragsgivarnas engagemang.
 
 ## Krav
 
@@ -33,7 +33,7 @@ En princip om skyndsam granskning av [regelverk](../glossary.md#regelverk) förs
 * Bekräfta att varje incheckning i historiken har granskats av en annan bidragsgivare.
 * Bekräfta att granskningar omfattar källkod, regelverk, tester och dokumentation.
 * Bekräfta att avvisade bidrag har förklarats på lämpligt sätt.
-* Kontrollera om riktlinjer för granskare inkluderar instruktioner att granska för överensstämmelse med standarder, arkitektur och kodbasens riktlinjer.
+* Kontrollera om riktlinjer för granskare innehåller instruktioner att granska för överensstämmelse med standarder, arkitektur och kodbasens riktlinjer.
 * Kontrollera med granskare om de kör programvaran och testerna under granskningen.
 * Kontrollera med granskare om incheckningar har granskats av en annan bidragsgivare i ett annat sammanhang.
 * Kontrollera om grenskydd används i [versionshanteringssystemet](../glossary.md#versionshantering).
@@ -59,7 +59,7 @@ En princip om skyndsam granskning av [regelverk](../glossary.md#regelverk) förs
 
 ## Vidare läsning
 
-* [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) av UK Government Digital Service.
+* [How to review code the GDS way](https://gds-way.digital.cabinet-office.gov.uk/manuals/code-review-guidelines.html#content) av UK Government Digital Service.
 * Grenskydd på [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) och [GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/).
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) av Sage Sharp.
 * [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) av Mozilla.

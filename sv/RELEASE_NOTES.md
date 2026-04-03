@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
+# SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 # script/release-body.sh expects VERSION in the first second-level header
 # script/update-release-notes-date.sh expects DATE-OF-RELEASE and a colon
 redirect_from:
@@ -112,7 +112,7 @@ December 5th 2022: 📝 the twelfth draft clarifies document maturity.
 * Add remaining SPDX headers to files.
 * Made additional minor changes to text for clarity.
 * Some hyperlinks updated.
-* Moved examples to the [Community implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/).
+* Moved examples to the [Community implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
 
 ## Version 0.4.0
 
@@ -163,7 +163,7 @@ March 15th 2022: 📜 the ninth draft allows English summaries for policy lackin
 * Emphasize reusability also on parts of the solutions in Create reusable and portable code.
 * Expand guidance to Developers and designers in Create reusable and portable code about deploying to proprietary platforms.
 * Add nuance to use of non-English terms in what management need to do in Use plain English.
-* Change the pull request process diagram to use Mermaid instead of BPMN to make [community translations](https://github.com/publiccodenet/community-translations-standard) easier.
+* Change the pull request process diagram to use Mermaid instead of BPMN to make [community translations](https://github.com/standard-for-public-code/community-translations-standard) easier.
 * Added Maurice Hendriks to AUTHORS.
 * Added OpenApi Specification to further reading.
 * Made the attributions in further reading sections clearer.
