@@ -97,7 +97,7 @@ Du är den hjälte inom öppen källkod vi behöver!
 Som gemenskap vill vi gärna inkludera alla bidragsgivare i [`AUTHORS`](AUTHORS.md).
 Om ditt namn inte redan finns där, skicka gärna en ändringsförfrågan för att lägga till dig.
 Varje utgåva innehåller en genomgång för att kontrollera att alla nya bidragsgivare har omnämnts.
-Låt oss veta om du inte vill vara med.
+Låt oss uttryckligen veta om du inte vill stå med.
 
 ## Språk och översättningar
 

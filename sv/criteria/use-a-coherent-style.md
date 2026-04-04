@@ -40,8 +40,8 @@ Förbättra och utöka dokumentationen fortlöpande med målet att den ska utvec
 
 Dessutom:
 
-* Använd en stilgranskare.
-* Lägg till konfigurationer för stilgranskaren i kodbasen.
+* Använd en linter.
+* Lägg till konfigurationer för lintern i kodbasen.
 
 ## Vidare läsning
 

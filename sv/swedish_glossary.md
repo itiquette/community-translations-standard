@@ -5,7 +5,7 @@
 # Svensk terminologiordlista
 
 Ordlistan dokumenterar de svenska översättningsvalen för engelska termer som används i standarden för offentlig kod.
-Syftet är att säkerställa enhetlig terminologi genom hela översättningen och underlätta för framtida översättare och granskare.
+Syftet är att säkerställa enhetlig terminologi genom hela översättningen och att underlätta för framtida översättare och granskare.
 
 ## Grundbegrepp
 
@@ -64,16 +64,16 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | runtime | körtid | |
 | bug | programfel | |
 | patch | programfix | |
-| linter | stilgranskare | |
-| configuration | konfiguration | Från latin, ej anglicism |
-| module | modul | Från latin, ej anglicism |
-| metadata | metadata | Från grekiska, ej anglicism |
+| linter | linter | |
+| configuration | konfiguration |  |
+| module | modul | |
+| metadata | metadata | |
 | framework | ramverk | |
 | feature | funktion, funktionalitet | |
 | issue | ärende | |
 | issue tracker | ärendespårare | |
-| maintainability | förvaltbarhet | |
-| technical debt | teknisk skuld | Ersatt i 0.8.1 med "long-term maintainability" → "långsiktig förvaltbarhet" |
+| maintainability | underhållbarhet | |
+| technical debt | teknisk skuld |  |
 
 ## Samarbete och styrning
 
@@ -86,7 +86,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | code of conduct | uppförandekod | |
 | community | gemenskap | |
 | feedback | återkoppling | |
-| steering team | styrgrupp | Nytt i 0.8.1 |
+| steering team | styrgrupp |1 |
 | steering team member | styrgruppsledamot | |
 | consent (beslut) | samtycke | I styrningssammanhang |
 | voting | omröstning | |
@@ -120,7 +120,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | changelog | ändringslogg | |
 | release notes | versionsinformation | Sammanfattning per utgåva |
 | release version | utgåveversion | |
-| overview | översikt | Nytt i 0.8.1, ersätter "övergripande beskrivning" |
+| overview | översikt | |
 
 ## Kravnivånyckelord (RFC 2119)
 

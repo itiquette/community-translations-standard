@@ -51,7 +51,7 @@ Offentliga beslutsfattare sätter prioriteringar och mål för projekt och kan h
 Avsnittet riktar sig särskilt till chefer genom att erbjuda konkreta åtgärder de kan vidta i sin roll.
 
 Chefer ansvarar för att projekt levereras i tid, för intressenthantering och för fortsatt leverans av tjänsten.
-För detta är de helt beroende av både beslutsfattare samt utvecklare och formgivare.
+För detta är de helt beroende av såväl beslutsfattare som utvecklare och formgivare.
 De behöver skapa rätt kultur, samla rätt resurser och tillhandahålla rätt strukturer för att leverera utmärkta tjänster.
 
 ## Utvecklare och formgivare: vad ni behöver göra

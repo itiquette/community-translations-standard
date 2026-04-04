@@ -92,12 +92,12 @@ Genom användning bidrar andra förvaltningar tillbaka till programvaran, så at
 Att vara öppen möjliggör mycket annat.
 
 Lokalt ansvar och demokratiskt ansvarsutkrävande säkerställs när en offentlig organisation genomför och förvaltar sin egen offentliga kod.
-Genom att vara öppen och med en bredare bidragsgivarbas blir programvaran säkrare eftersom den drar nytta av att många ögon upptäcker potentiella brister.
+Tack vare öppenheten och en bredare bidragsgivarbas blir programvaran säkrare eftersom den drar nytta av att många ögon upptäcker potentiella brister.
 Många bidragsgivare delar förvaltningsarbetet för att hålla den funktionell och modern, vilket förbättrar den långsiktiga förvaltbarheten.
 Den delade arbetsbelastningen är mer hållbar nu och i framtiden.
 Öppenheten gör både koden och dess data lättare att anpassa i framtiden.
 Koden blir enklare att omforma, återanvända för nytt ändamål eller avveckla.
-Allt detta resulterar i offentlig infrastruktur med lägre risk.
+Allt detta leder till offentlig infrastruktur med lägre risk.
 
 Genom att samla resurser kan offentliga förvaltningar ägna extra uppmärksamhet åt hur programvaran anpassas så att den fungerar bäst i varje lokalt sammanhang, vilket skapar bättre användarupplevelser för slutanvändarna (invånare eller medborgare).
 

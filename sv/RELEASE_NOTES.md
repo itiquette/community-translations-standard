@@ -6,269 +6,269 @@
 redirect_from:
   - CHANGELOG
 ---
-# Version history
+# Versionshistorik
 
 ## Version 0.8.1
 
-April 28th 2025: 🧑‍🤝‍🧑 The 18th draft changes to community governance model.
+28 april 2025: 🧑‍🤝‍🧑 Det artonde utkastet övergår till gemenskapsstyrning.
 
-* The project has switched to a community governance model.
-  * Governance model now covers steering team, composition, responsibilities, meetings, decision making process, lazy consensus, voting, and code of Conduct.
-  * The website is now located at the new domain [https://www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
-  * SPDX copyright text updated for all project files.
-* Removed optional requirement in Document the code about tempting examples.
-* Criteria texts have been slightly simplified, to be more easily understood, with less technical terms.
-* The repository README has received documentation improvements.
-* The CHANGELOG was renamed to RELEASE_NOTES.
-* Improvements to release guidelines.
-* Made minor changes to text for clarity and consistency.
+* Projektet har övergått till en gemenskapsstyrningsmodell.
+  * Styrningsmodellen omfattar nu styrgrupp, sammansättning, ansvar, möten, beslutsprocess, samtycke, omröstning och uppförandekod.
+  * Webbplatsen finns nu på den nya domänen [https://www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
+  * SPDX-upphovsrättstext uppdaterad för alla projektfiler.
+* Tog bort valfritt krav i Dokumentera koden om lockande exempel.
+* Kriterietexterna har förenklats något för att bli lättare att förstå, med färre tekniska termer.
+* README-filen i kodförrådet har fått förbättrad dokumentation.
+* CHANGELOG döptes om till RELEASE_NOTES.
+* Förbättringar av utgåveriktlinjer.
+* Mindre textändringar för tydlighet och enhetlighet.
 
 ## Version 0.8.0
 
-January 9th 2024: 🌐 The 17th draft distinguishes between authoritative and courtesy translations.
+9 januari 2024: 🌐 Det sjuttonde utkastet särskiljer auktoritativa översättningar och artighetsöversättningar.
 
-* Clarifies that in addition to English, more authoritative languages are possible.
-* Allows for courtesy translations which may not be up to date at time of release.
-* Adds guidance to create a mandate for developers to prioritize prompt review of contributions.
-* Expands guidance on how to evaluate reviews happening in a timely fashion.
-* Includes minor changes to text for clarity and consistency.
+* Förtydligar att utöver engelska kan fler auktoritativa språk användas.
+* Tillåter artighetsöversättningar som kanske inte är uppdaterade vid utgåvotillfället.
+* Lägger till vägledning om att ge utvecklare mandat att prioritera skyndsam granskning av bidrag.
+* Utökar vägledning om hur man bedömer att granskningar sker i rimlig tid.
+* Innehåller mindre textändringar för tydlighet och enhetlighet.
 
 ## Version 0.7.1
 
-July 31st 2023: 💄 The sixteenth draft change the name of a criterion and clarifies references to code.
+31 juli 2023: 💄 Det sextonde utkastet byter namn på ett kriterium och förtydligar hänvisningar till kod.
 
-* The criterion "Make the codebase reusable and portable" was renamed from "Create reusable and portable code".
-* Added a glossary entry for "Source Code".
-* References to "code" which only applied to "source code" now reference "source code" explicitly.
-* Clarification of "running code" as "software".
-* Minor changes to clarify "code" vs "codebase".
-* Simplify guidance to policy makers in Bundle policy and source code.
-* Clarify How to test sections of Make the codebase findable and Make the codebase reusable and portable.
-* Add a criteria and requirements checklist to the release artifacts.
-* Increase automation of the release process.
+* Kriteriet "Make the codebase reusable and portable" bytte namn från "Create reusable and portable code".
+* Lade till en ordlistepost för "Source Code".
+* Där "code" bara gällde "source code" hänvisas nu uttryckligen till "source code".
+* Förtydligande av "running code" som "software".
+* Mindre ändringar för att klargöra "code" kontra "codebase".
+* Förenklad vägledning till beslutsfattare i Paketera regelverk och källkod.
+* Förtydligande av avsnitten Hur du testar i Kodbasen ska vara lättfunnen och Gör kodbasen återanvändbar och portabel.
+* Lade till en checklista för kriterier och krav bland utgåveartefakterna.
+* Ökad automatisering av utgåveprocessen.
 
 ## Version 0.7.0
 
-May 31st 2023: 📑 the fifteenth draft adds new requirements for documenting review funding and clarifies review process requirement.
+31 maj 2023: 📑 Det femtonde utkastet lägger till nya krav för dokumentation av granskningsfinansiering och förtydligar krav på granskningsprocessen.
 
-* Add requirement to document who is expected to cover the cost of reviewing contributions.
-* Add requirement to have a short description of the codebase.
-* Change the focus of contributions adhering to standards to focus on the review of contributions.
-* Relaxed MUST requirements to SHOULD in Make the codebase findable.
-* Review template now in HTML format.
-* Introduction converted to foreword.
-* Improved contributing guidelines.
-* Improved documentation of scripts.
+* Nytt krav att dokumentera vem som förväntas stå för granskningskostnaderna för bidrag.
+* Nytt krav att ha en kort beskrivning av kodbasen.
+* Ändrat fokus från bidragsefterlevnad av standarder till granskning av bidrag.
+* Lättade MÅSTE-krav till BÖR i Kodbasen ska vara lättfunnen.
+* Granskningsmallen finns nu i HTML-format.
+* Introduktionen omvandlad till förord.
+* Förbättrade riktlinjer för bidrag.
+* Förbättrad dokumentation av skript.
 
 ## Version 0.6.0
 
-April 20th 2023: 🔀 the fourteenth draft adds new requirements for portability and tests and an introduction to each criterion.
+20 april 2023: 🔀 Det fjortonde utkastet lägger till nya krav för portabilitet och tester samt en inledning till varje kriterium.
 
-* New requirement in Create reusable and portable code about the development being a collaboration between multiple parties.
-* New requirement in Create reusable and portable code about being dependent on a single vendor.
-* New requirement in Use continuous integration about publishing results for automated tests.
-* Differentiating the two requirements about security to clearly be about providing a method and having documentation about it.
-* Rephrased requirements to focus on the codebase rather than contributor behavior.
-* Removed the sections Why this is important and What this does not do and replaced with an introduction in each criterion.
-* Added general What this does not do section in the introduction of the Standard.
-* Added guidance for public policy makers about related policies and license compatibility.
-* Added guidance for developers and designers about version controlling files.
-* Clarified guidance for developers and designers about prompt responses and search engine optimization.
-* Added Further reading about accessibility.
-* Aligned criteria URLs with criteria names.
-* Improved navigation in the web version.
-* Moved tools in Further reading sections to the community implementation guide.
-* Moved compliance or certification process to [publiccode.net](https://publiccode.net).
-* Change format of the review template to make it easier to update after a new release.
-* Improved the text on the landing page and added links to related resources.
-* Added spell checker automated test.
-* Made minor changes to text for clarity and consistency.
-* Moved SPDX headers to yaml header.
+* Nytt krav i Gör kodbasen återanvändbar och portabel om att utvecklingen ska vara ett samarbete mellan flera parter.
+* Nytt krav i Gör kodbasen återanvändbar och portabel om beroende av en enskild leverantör.
+* Nytt krav i Använd kontinuerlig integrering om publicering av resultat för automatiserade tester.
+* Särskiljer de två säkerhetskraven så att det ena tydligt handlar om att tillhandahålla en metod och det andra om dokumentation.
+* Omformulerade krav för att fokusera på kodbasen snarare än bidragsgivarnas beteende.
+* Tog bort avsnitten Varför detta är viktigt och Vad detta inte omfattar; ersatte dem med en inledning i varje kriterium.
+* Lade till det generella avsnittet Vad detta inte omfattar i standardens introduktion.
+* Lade till vägledning för offentliga beslutsfattare om relaterade regelverk och licenskompatibilitet.
+* Lade till vägledning för utvecklare och formgivare om versionshantering av filer.
+* Förtydligade vägledning för utvecklare och formgivare om snabba svar och sökmotoroptimering.
+* Lade till Vidare läsning om tillgänglighet.
+* Anpassade kriterie-URL:er till kriterienamnen.
+* Förbättrad navigering i webbversionen.
+* Flyttade verktyg i avsnitten Vidare läsning till handledningen för gemenskapen.
+* Flyttade efterlevnads- eller certifieringsprocessen till [publiccode.net](https://publiccode.net).
+* Ändrade format på granskningsmallen för att underlätta uppdatering efter en ny utgåva.
+* Förbättrade texten på landningssidan och lade till länkar till relaterade resurser.
+* Lade till automatiserad stavningskontroll.
+* Mindre textändringar för tydlighet och enhetlighet.
+* Flyttade SPDX-rubriker till YAML-frontmatter.
 
 ## Version 0.5.0
 
-January 25th 2023: 🎨 the thirteenth draft focuses on documenting style guidelines.
+25 januari 2023: 🎨 Det trettonde utkastet fokuserar på att dokumentera stilriktlinjer.
 
-* Adjust the coding style requirement to focus on the codebase using a style guide rather than contributor behavior.
-* Moved requirement for codebase names to Make the codebase findable from Use plain English.
-* Moved requirement about testing the code by using examples to Use continuous integration from Document the code.
-* Split requirement about machine testable standards to clarify that open is more important than testable.
-* Adjust how to test findability requirements to be less reliant on search engine algorithms.
-* Made minor changes to text for clarity and consistency.
+* Justerade kodstilskravet så att det fokuserar på kodbasens stilguide snarare än bidragsgivarnas beteende.
+* Flyttade krav för kodbasnamn från Använd enkel engelska till Kodbasen ska vara lättfunnen.
+* Flyttade krav om att testa koden med hjälp av exempel från Dokumentera koden till Använd kontinuerlig integrering.
+* Delade upp krav om maskinellt testbara standarder för att förtydliga att öppenhet är viktigare än testbarhet.
+* Justerade testningen av sökbarhetskrav för att minska beroendet av sökmotoralgoritmer.
+* Mindre textändringar för tydlighet och enhetlighet.
 
 ## Version 0.4.1
 
-December 5th 2022: 📝 the twelfth draft clarifies document maturity.
+5 december 2022: 📝 Det tolfte utkastet förtydligar dokumentation av mognad.
 
-* Document maturity focuses on whether or not versions of the codebase are ready to use.
-* Document maturity no longer requires specific labels for codebases that are not ready to use.
-* Audit flow image now generated from an easier to translate format.
-* Improved guidance on How to test.
-* Add publiccode.yml file.
-* Add review template.
-* Consistently link glossary terms.
-* Add practices and standards to follow in CONTRIBUTING.
-* Add Matti Schneider to Authors.
-* Add remaining SPDX headers to files.
-* Made additional minor changes to text for clarity.
-* Some hyperlinks updated.
-* Moved examples to the [Community implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
+* Dokumentera kodbasens mognad fokuserar på huruvida versioner av kodbasen är redo att användas.
+* Dokumentera kodbasens mognad kräver inte längre specifika etiketter för kodbaser som inte är redo att användas.
+* Granskningsflödesbilden genereras nu från ett format som är enklare att översätta.
+* Förbättrad vägledning i Hur du testar.
+* Lade till publiccode.yml-fil.
+* Lade till granskningsmall.
+* Enhetlig länkning av ordlistetermer.
+* Lade till rutiner och standarder att följa i CONTRIBUTING.
+* Lade till Matti Schneider bland upphovspersonerna.
+* Lade till återstående SPDX-rubriker i filer.
+* Ytterligare mindre textändringar för tydlighet.
+* Vissa hyperlänkar uppdaterade.
+* Flyttade exempel till [handledningen för gemenskapen](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
 
 ## Version 0.4.0
 
-September 7th 2022: 🔭 the eleventh draft adds a new findability criterion.
+7 september 2022: 🔭 Det elfte utkastet lägger till ett nytt sökbarhetskriterium.
 
-* Introduce new criterion: Make the codebase findable.
-* Improve How to test section for most criteria.
-* New requirement in Welcome contributors about publishing activity statistics.
-* Removed redundant requirement about portable and reusable code.
-* Expand open license definition to include both OSI and FSF approved licenses.
-* Rephrase MAY requirements to use the keyword OPTIONAL for clarity.
-* Expressed intent that the Standard for Public Code should meet its own requirements where applicable and added assessment.
-* Add SPDX license identifiers to files.
-* Introduced new Code of Conduct.
-* Clarify distinction between source code and policy text.
-* Restructuring of requirements with bullet point lists.
-* Acknowledge the importance of codebase modularity for reuse.
-* Move requirements related to Findability to the new criterion.
-* Clarify the role of non-open standards when used in a codebase.
-* Additional guidance about build-time and runtime dependencies.
-* Added roadmap for the development of the Standard for Public Code.
-* Update structure of Authors file.
-* Add Audrey Tang to Authors.
-* Added a list of criteria to the print edition.
-* Clarify what the standard means with policymakers, managers, developers and designers.
-* Made additional minor changes to text for clarity.
-* Some hyperlinks updated.
+* Nytt kriterium: Kodbasen ska vara lättfunnen.
+* Förbättrat avsnittet Hur du testar för de flesta kriterier.
+* Nytt krav i Välkomna bidragsgivare om publicering av aktivitetsstatistik.
+* Tog bort överflödigt krav om portabel och återanvändbar kod.
+* Utökade definitionen av öppen licens till att omfatta både OSI- och FSF-godkända licenser.
+* Omformulerade FÅR-krav till att använda nyckelordet VALFRITT för tydlighet.
+* Uttalade avsikten att standarden ska uppfylla sina egna krav där tillämpligt. Lade till bedömning.
+* Lade till SPDX-licensidentifierare i filer.
+* Införde ny uppförandekod.
+* Förtydligade skillnaden mellan källkod och regelverkstext.
+* Omstrukturering av krav med punktlistor.
+* Uppmärksammar vikten av kodbasens modularitet för återanvändning.
+* Flyttade sökbarhetsrelaterade krav till det nya kriteriet.
+* Förtydligade rollen för icke-öppna standarder vid användning i en kodbas.
+* Ytterligare vägledning om beroenden vid byggtid och körtid.
+* Lade till framtidsplan för utvecklingen av standarden för offentlig kod.
+* Uppdaterade strukturen i AUTHORS-filen.
+* Lade till Audrey Tang bland upphovspersonerna.
+* Lade till en lista med kriterier i tryckversionen.
+* Förtydligade vad standarden avser med beslutsfattare, chefer, utvecklare och formgivare.
+* Ytterligare mindre textändringar för tydlighet.
+* Vissa hyperlänkar uppdaterade.
 
 ## Version 0.3.0
 
-May 23rd 2022: 🗎 the tenth draft strengthens documentation and localization.
+23 maj 2022: 🗎 Det tionde utkastet stärker dokumentation och lokalisering.
 
-* Requirement for localization made explicit in Create reusable and portable code.
-* Documentation of governance changed from a SHOULD to a MUST.
-* Replace the very subjective (and hard to test) "contributions MUST be small" with requirement to document expectation in contributing guidelines and focus on a single issue.
-* Community translations now linked in the footer.
-* Revert "Replace BPMN svg with Mermaid flowchart".
-* Many minor clarifications to language and sentences made more simple.
-* Some hyperlinks updated.
+* Krav på lokalisering gjordes uttryckligt i Gör kodbasen återanvändbar och portabel.
+* Dokumentation av styrning ändrat från BÖR till MÅSTE.
+* Ersatte det subjektiva (och svårtestade) kravet "bidrag MÅSTE vara små" med krav på att i riktlinjerna dokumentera förväntningar på bidrag och fokus på enskilda ärenden.
+* Gemenskapsöversättningar länkas nu i sidfoten.
+* Återställde "Replace BPMN svg with Mermaid flowchart".
+* Många mindre förtydliganden av språk och förenklingar av meningar.
+* Vissa hyperlänkar uppdaterade.
 
 ## Version 0.2.3
 
-March 15th 2022: 📜 the ninth draft allows English summaries for policy lacking an official translation.
+15 mars 2022: 📜 Det nionde utkastet tillåter engelska sammanfattningar för regelverk som saknar officiell översättning.
 
-* Relax the criterion Use plain English by adding a new requirement allows bundled policy not available in English to have an accompanying summary in English instead of translating the full text.
-* Similarly, allow for English summaries for policies not available in English in Bundle policy and code.
-* Clarify that term 'policy' includes processes which impact development and deployment in Bundle policy and code.
-* Emphasize reusability also on parts of the solutions in Create reusable and portable code.
-* Expand guidance to Developers and designers in Create reusable and portable code about deploying to proprietary platforms.
-* Add nuance to use of non-English terms in what management need to do in Use plain English.
-* Change the pull request process diagram to use Mermaid instead of BPMN to make [community translations](https://github.com/standard-for-public-code/community-translations-standard) easier.
-* Added Maurice Hendriks to AUTHORS.
-* Added OpenApi Specification to further reading.
-* Made the attributions in further reading sections clearer.
-* Made additional minor changes to text for clarity.
+* Lättade kriteriet Använd enkel engelska genom ett nytt krav: medföljande regelverk utan engelsk version får ha en sammanfattning på engelska istället för full översättning.
+* Tillåter på motsvarande sätt engelska sammanfattningar för regelverk utan tillgänglig engelsk version i Paketera regelverk och källkod.
+* Förtydligar att termen "policy" innefattar processer som påverkar utveckling och driftsättning i Paketera regelverk och källkod.
+* Betonar återanvändbarhet även av delar av lösningarna i Gör kodbasen återanvändbar och portabel.
+* Utökade vägledning till utvecklare och formgivare i Gör kodbasen återanvändbar och portabel om driftsättning på slutna plattformar.
+* Nyanserade vägledningen om icke-engelska termer under Chefer i Använd enkel engelska.
+* Bytte processdiagrammet för ändringsförfrågningar från BPMN till Mermaid för att underlätta [gemenskapsöversättningar](https://github.com/standard-for-public-code/community-translations-standard).
+* Lade till Maurice Hendriks bland upphovspersonerna.
+* Lade till OpenApi Specification i Vidare läsning.
+* Förtydligade tillskrivningarna i avsnitten Vidare läsning.
+* Ytterligare mindre textändringar för tydlighet.
 
 ## Version 0.2.2
 
-November 29th 2021: 🏛 the eighth draft recognizes that policy which executes as code may not be in English.
+29 november 2021: 🏛 Det åttonde utkastet erkänner att regelverk som verkställs som kod kanske inte är på engelska.
 
-* Document exception to "All code MUST be in English" where policy is interpreted as code.
-* Add MAY requirement regarding committer email addresses in Maintain version control.
-* Expand guidance to Policy Makers in Bundle policy and code.
-* Expand guidance to Developers and designers in Use a coherent style.
-* Add "Different contexts" to glossary.
-* Add Mauko Quiroga and Charlotte Heikendorf to AUTHORS.
-* Add Digital Public Goods approval badge.
-* Added "next" and "previous" links to criteria pages of web version.
-* Add Open Standards principles to further reading.
-* Add Definition of plain language to further reading.
-* Move the Semantic Versioning Specification further reading reference.
-* Clarify that publiccode.yml is one example of a machine-readable metadata description.
-* Changed "your codebase" and "your organization" to be less possessive.
-* Made additional minor changes to text for clarity.
-* Add instructions for creating a print version.
+* Dokumenterade undantag till "All code MUST be in English" där regelverk tolkas som kod.
+* Lade till FÅR-krav angående e-postadresser för incheckare i Upprätthåll versionshantering.
+* Utökade vägledning till beslutsfattare i Paketera regelverk och källkod.
+* Utökade vägledning till utvecklare och formgivare i Använd en enhetlig stil.
+* Lade till "Different contexts" i ordlistan.
+* Lade till Mauko Quiroga och Charlotte Heikendorf bland upphovspersonerna.
+* Lade till Digital Public Goods-godkännandemärke.
+* Lade till "nästa"- och "föregående"-länkar på kriteriesidorna i webbversionen.
+* Lade till Open Standards-principer i Vidare läsning.
+* Lade till Definition of plain language i Vidare läsning.
+* Flyttade hänvisningen till Semantic Versioning Specification i Vidare läsning.
+* Förtydligade att publiccode.yml är ett exempel på en maskinläsbar metadatabeskrivning.
+* Ändrade "your codebase" och "your organization" till mindre possessiva former.
+* Ytterligare mindre textändringar för tydlighet.
+* Lade till instruktioner för att skapa en tryckversion.
 
 ## Version 0.2.1
 
-March 1st 2021: 🧽 the seventh draft has minor cleaning up after version 0.2.0.
+1 mars 2021: 🧽 Det sjunde utkastet gör mindre städning efter version 0.2.0.
 
-* New SHOULD requirement on using a distributed version control system and why distributed is important.
-* Feedback requirements for rejected contributions are more strict than accepted ones.
-* Specify that copyright and license notices should also be machine-readable.
-* Advice on how to test that notices be machine-readable.
-* Clarify guidance for rolling releases.
-* Clear up definition of version control in glossary.
-* Add further reading encouraging contribution, SPDX, Git and reviewing contributions.
-* Add links to videos about the concept of public code.
-* Update BPMN link.
-* Reduce link duplication.
-* Add Alba Roza and Ngô Ngọc Đức Huy to authors.
-* Made additional minor changes to text for clarity.
+* Nytt BÖR-krav om distribuerat versionshanteringssystem, med motivering.
+* Striktare krav på återkoppling för avvisade bidrag jämfört med godkända.
+* Anger att upphovsrätts- och licensmeddelanden även bör vara maskinläsbara.
+* Vägledning om hur man testar att meddelanden är maskinläsbara.
+* Förtydligade vägledning för rullande utgåvor.
+* Förtydligade definitionen av versionshantering i ordlistan.
+* Lade till Vidare läsning om att uppmuntra bidrag, SPDX, Git och granskning av bidrag.
+* Lade till länkar till videor om konceptet offentlig kod.
+* Uppdaterade BPMN-länk.
+* Minskade länkduplicering.
+* Lade till Alba Roza och Ngô Ngọc Đức Huy bland upphovspersonerna.
+* Ytterligare mindre textändringar för tydlighet.
 
 ## Version 0.2.0
 
-October 26th 2020: 🎊 the sixth draft splits a requirement and adds clarity.
+26 oktober 2020: 🎊 Det sjätte utkastet delar upp ett krav och tillför tydlighet.
 
-* Split "Welcome contributions" criterion into "Make contributing easy" and "Welcome contributors".
-* Rename criterion "Pay attention to codebase maturity" to "Document codebase maturity".
-* Changed MUST to SHOULD for requirement of codebase in use by multiple parties.
-* Add MUST NOT requirement regarding copyright assignment.
-* Clarify role of configuration in reusable code requirement.
-* Glossary additions: continuous integration, policy, repository, and version control.
-* Replace references to 'cities' with 'public organizations'.
-* Clarify aspects of sensitive code by separating contributor and reviewer requirements into separate items.
-* Expand further reading, and guidance to policy makers, developers and designers.
-* Add Felix Faassen and Arnout Engelen to authors.
-* Made additional minor changes to text for clarity.
+* Delade upp kriteriet "Welcome contributions" i "Make contributing easy" och "Welcome contributors".
+* Döpte om kriteriet "Pay attention to codebase maturity" till "Document codebase maturity".
+* Ändrade MÅSTE till BÖR för kravet att kodbasen ska användas av flera parter.
+* Lade till FÅR INTE-krav angående överlåtelse av upphovsrätt.
+* Förtydligade konfigurationens roll i kravet på återanvändbar kod.
+* Ordlistetillägg: continuous integration, policy, repository och version control.
+* Ersatte hänvisningar till "städer" med "offentliga organisationer".
+* Förtydligade aspekter av känslig kod genom att dela upp krav för bidragsgivare och granskare i egna punkter.
+* Utökade Vidare läsning och vägledning till beslutsfattare, utvecklare och formgivare.
+* Lade till Felix Faassen och Arnout Engelen bland upphovspersonerna.
+* Ytterligare mindre textändringar för tydlighet.
 
 ## Version 0.1.4
 
-November 27th 2019: 🧹 the fifth draft consists mostly of additional minor fixes.
+27 november 2019: 🧹 Det femte utkastet består mestadels av ytterligare mindre korrigeringar.
 
-* Linked License.md file.
-* Add Sky Bristol, Marcus Klaas de Vries, and Jan Ainali to authors.
-* Made punctuation more consistent, especially for bullet lists.
-* Made some minor changes to text for clarity.
+* Länkade License.md-filen.
+* Lade till Sky Bristol, Marcus Klaas de Vries och Jan Ainali bland upphovspersonerna.
+* Mer enhetlig interpunktion, särskilt i punktlistor.
+* Några mindre textändringar för tydlighet.
 
 ## Version 0.1.3
 
-October 8th 2019: 🍂 the fourth draft only patches and fixes minor things for the autumn cleaning
+8 oktober 2019: 🍂 Det fjärde utkastet åtgärdar bara mindre saker inför höststädningen.
 
-* Renamed continuous delivery to continuous integration.
-* Referencing accessibility guidelines in the language standard.
-* A bunch of style and consistency fixes.
+* Döpte om "continuous delivery" till "continuous integration".
+* Hänvisar till riktlinjer för tillgänglighet i språkstandarden.
+* En mängd stil- och enhetlighetskorrigeringar.
 
 ## Version 0.1.2
 
-August 22th 2019: 🌠 the third draft focuses on better text and takes community input
+22 augusti 2019: 🌠 Det tredje utkastet fokuserar på bättre text och tar emot bidrag från gemenskapen.
 
-* With some great new contributors comes a fresh author list.
-* All links are now HTTPS.
-* General proofreading, wording clarifications, and smashed typos.
-* Updated criteria:
-  * Requirement for reuse in different contexts
-  * Recommendation for explicit versioning
-  * Recommendation for multi party development
-  * Recommendation for license headers in files
-  * Recommendation for vulnerability reporting
-  * Recommendation for explicit documentation of governance
+* Med flera fantastiska nya bidragsgivare kommer en uppdaterad upphovspersonslista.
+* Alla länkar använder nu HTTPS.
+* Allmän korrekturläsning, förtydliganden av formuleringar och rättade stavfel.
+* Uppdaterade kriterier:
+  * Krav på återanvändning i olika sammanhang
+  * Rekommendation om uttrycklig versionshantering
+  * Rekommendation om flerpartsutveckling
+  * Rekommendation om licensrubriker i filer
+  * Rekommendation om sårbarhetsrapportering
+  * Rekommendation om uttrycklig dokumentation av styrning
 
 ## Version 0.1.1
 
-May 9th 2019: 🤔 the second draft fixes a few basic oversights and fixes a lot of typos
+9 maj 2019: 🤔 Det andra utkastet rättar några grundläggande förbiseenden och en mängd stavfel.
 
-* Removed references to the Foundation for Public Code, we're going to have to change the name in becoming an association.
-* Updated the introduction.
-* Updated the glossary.
-* Added the code of conduct.
-* We've recommended using the publiccode.yml standard for easier reuse.
+* Tog bort hänvisningar till Foundation for Public Code, eftersom namnbyte behövdes i samband med ombildningen till förening.
+* Uppdaterade introduktionen.
+* Uppdaterade ordlistan.
+* Lade till uppförandekoden.
+* Vi har rekommenderat att använda publiccode.yml-standarden för enklare återanvändning.
 
 ## Version 0.1.0
 
-April 16th 2019: 🎉 the first draft is ready, it is all brand new and has snazzy new ideas in it
+16 april 2019: 🎉 Det första utkastet är klart, helt nytt och med fräscha idéer.
 
-* 14 criteria with their requirements and how to operationalize them.
-* An introduction with a high level background, what this standard is, and how the Foundation for Public Code will use it.
+* 14 kriterier med krav och hur de omsätts i praktiken.
+* En introduktion med övergripande bakgrund, vad denna standard är och hur Foundation for Public Code kommer att använda den.
 
-This first version was produced together with the Amsterdam University of Applied Sciences and the City of Amsterdam as a part of the [Smart Cities? Public Code! project](https://smartcities.publiccode.net/).
+Denna första version togs fram tillsammans med Amsterdam University of Applied Sciences och City of Amsterdam som en del av projektet [Smart Cities? Public Code!](https://smartcities.publiccode.net/).

@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Gör kodbasen återanvändbar och portabel
 
-Att skapa återanvändbar och portabel [kod](../glossary.md#kod) gör det möjligt för beslutsfattare, utvecklare och formgivare att återanvända det som har utvecklats, testa det, förbättra det och bidra med förbättringarna tillbaka, vilket leder till bättre kvalitet, billigare förvaltning och högre tillförlitlighet.
+Att skapa återanvändbar och portabel [kod](../glossary.md#kod) gör det möjligt för beslutsfattare, utvecklare och formgivare att återanvända det som har utvecklats, testa det, förbättra det och bidra tillbaka med förbättringar, vilket leder till bättre kvalitet, billigare förvaltning och högre tillförlitlighet.
 
 Att genomtänkt och medvetet utforma en [kodbas](../glossary.md#kodbas) för återanvändning gör det möjligt att dela kodbasens uppdrag, vision och omfattning mellan flera parter.
 Kodbaser som utvecklas och används av flera parter har större sannolikhet att dra nytta av en självbärande gemenskap.

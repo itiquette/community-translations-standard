@@ -14,14 +14,14 @@ Att kräva grundlig granskning av bidrag uppmuntrar en kultur där man ser till 
 Granskning av källkod ökar chansen att upptäcka och åtgärda potentiella programfel eller misstag innan de läggs till i [kodbasen](../glossary.md#kodbas).
 Att all källkod granskas motverkar en kultur av att klandra enskilda och uppmuntrar i stället en kultur som fokuserar på lösningar.
 
-En princip om skyndsam granskning försäkrar bidragsgivare om en garanterad tid för återkoppling eller gemensam förbättring, vilket ökar både leveranstakten och bidragsgivarnas engagemang.
+Ett [regelverk](../glossary.md#regelverk) om skyndsam granskning försäkrar bidragsgivare om en garanterad tid för återkoppling eller gemensam förbättring, vilket ökar både leveranstakten och bidragsgivarnas engagemang.
 
 ## Krav
 
 * Alla bidrag som accepteras eller checkas in i utgåveversioner av kodbasen MÅSTE granskas av en annan bidragsgivare.
 * Granskningar MÅSTE omfatta källkod, regelverk, tester och dokumentation.
 * Granskare MÅSTE ge återkoppling på alla beslut att inte acceptera ett bidrag.
-* Granskningsprocessen BÖR bekräfta att ett bidrag överensstämmer med de standarder, den arkitektur och de beslut som fastställts i kodbasen för att passera granskningen.
+* Granskningsprocessen BÖR bekräfta att ett bidrag överensstämmer med de standarder, den arkitektur och de beslut som fastställts i kodbasen för att klara granskningen.
 * Granskningar BÖR omfatta körning av både programvaran och testerna i kodbasen.
 * Bidrag BÖR granskas av någon i ett annat sammanhang än bidragsgivaren.
 * Versionshanteringssystem BÖR INTE acceptera ogranskade bidrag i utgåveversioner.

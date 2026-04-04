@@ -10,7 +10,7 @@ redirect_from:
 
 Atmosfären i en [kodbas'](../glossary.md#kodbas) gemenskap hjälper användare att välja en kodbas framför en annan.
 Att välkomna vem som helst som bidragsgivare gör det möjligt för gemenskapen att växa och bestå över tid.
-En gemenskap löper mindre risk att splittras om bidragsgivare har tydliga vägar att påverka kodbasens och gemenskapens mål och framsteg.
+En gemenskap där bidragsgivare har tydliga vägar att påverka kodbasens och gemenskapens mål och framsteg löper mindre risk att splittras och gå skilda vägar.
 Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 
 ## Krav

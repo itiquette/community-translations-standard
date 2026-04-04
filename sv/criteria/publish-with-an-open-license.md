@@ -18,7 +18,7 @@ Att tydligt ange licensen för varje fil i en kodbas underlättar korrekt återa
 * All källkod och dokumentation MÅSTE vara licensierad så att den fritt kan återanvändas, ändras och vidaredistribueras.
 * Programvarans källkod MÅSTE vara licensierad under en [licens godkänd av OSI eller FSF som fri](https://spdx.org/licenses/).
 * All källkod MÅSTE publiceras med en licensfil.
-* Bidragsgivare FÅR INTE krävas överföra upphovsrätten för sina bidrag till kodbasen.
+* Bidragsgivare FÅR INTE krävas att överföra upphovsrätten för sina bidrag till kodbasen.
 * Alla källkodsfiler i kodbasen BÖR innehålla ett upphovsrättsmeddelande och ett licenshuvud som är maskinläsbara.
 * Att ha flera licenser för olika typer av källkod och dokumentation är VALFRITT.
 
