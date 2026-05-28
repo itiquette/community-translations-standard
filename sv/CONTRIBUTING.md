@@ -36,7 +36,7 @@ Granskare kommer också att säkerställa att bidrag är i linje med [offentlig 
 Vidare kommer de att granska att bidraget överensstämmer med [standarderna](#standarder-att-följa) och förblir sammanhängande med helheten.
 
 Projektet använder [GitFlow-grenmodellen och arbetsflödet](https://nvie.com/posts/a-successful-git-branching-model/).
-När du har förgrenat kodförrådet, se till att skapa en funktionsgren enligt GitFlow-modellen.
+När du har skapat en avgrening av kodförrådet, se till att skapa en funktionsgren enligt GitFlow-modellen.
 
 Lägg till dina ändringar i incheckningar [med ett meddelande som förklarar dem](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message).
 Om mer än en typ av ändring behövs, gruppera logiskt sammanhörande ändringar i separata incheckningar.
@@ -55,7 +55,7 @@ Standarden för offentlig kod tillämpar för närvarande inget specifikt offent
 
 Standarden för offentlig kod strävar efter att [använda enkel engelska](criteria/use-plain-english.md) och vi har valt amerikansk engelska för stavning.
 Textinnehåll bör normalt följa en rad per mening, utan radbrytning, för att göra skillnadsjämförelser enklare att granska.
-Vi vill dock betona att det är viktigare att du gör ditt bidrag än att du oroar dig för stavning och typografi.
+Vi vill betona att det är viktigare att du gör ditt bidrag än att du oroar dig för stavning och typografi.
 Vi hjälper dig med det i vår granskningsprocess och har också en separat kvalitetskontroll innan vi [gör en ny utgåva](docs/releasing.md).
 
 #### Standarder att följa
@@ -92,9 +92,9 @@ I annat fall tar styrgruppsledamoten upp det för styrgruppen att besluta om.
 ### 4. Fira
 
 Dina idéer, din dokumentation och din kod har blivit en integrerad del av projektet.
-Du är den hjälte inom öppen källkod vi behöver!
+Du är den hjälte för fri- och öppen programvara vi behöver!
 
-Som gemenskap vill vi gärna inkludera alla bidragsgivare i [`AUTHORS`](AUTHORS.md).
+Som gemenskap vill vi gärna ta med alla bidragsgivare i [`AUTHORS`](AUTHORS.md).
 Om ditt namn inte redan finns där, skicka gärna en ändringsförfrågan för att lägga till dig.
 Varje utgåva innehåller en genomgång för att kontrollera att alla nya bidragsgivare har omnämnts.
 Låt oss uttryckligen veta om du inte vill stå med.
@@ -104,8 +104,8 @@ Låt oss uttryckligen veta om du inte vill stå med.
 Det auktoritativa språket för standarden för offentlig kod är engelska.
 
 Versioner på andra språk tillhandahålls av gemenskapen efter bästa förmåga.
-Dessa artighetsöversättningar är inte nödvändigtvis i takt med den engelska versionen, eftersom saknade översättningar inte blockerar nya utgåvor.
-Vi bjuder in dig att hjälpa till att underhålla befintliga och lägga till nya [gemenskapsöversättningar av standarden](https://github.com/standard-for-public-code/community-translations-standard).
+De följer inte nödvändigtvis den engelska versionen, eftersom saknade översättningar inte blockerar nya utgåvor.
+Du är välkommen att hjälpa till att underhålla befintliga och lägga till nya [gemenskapsöversättningar av standarden](https://github.com/standard-for-public-code/community-translations-standard).
 
 ## Utgåvor
 

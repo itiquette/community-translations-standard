@@ -18,25 +18,25 @@ Tillsammans skapar detta fler möjligheter för medborgare att förstå hur prog
 * Källkod som för närvarande inte används (såsom nya versioner, förslag eller äldre versioner) BÖR publiceras.
 * Att dokumentera vilken källkod eller vilket regelverk som ligger till grund för en specifik kontakt som [allmänheten](../glossary.md#allmänheten) kan ha med en organisation är VALFRITT.
 
-## Hur du testar
+## Test
 
 * Bekräfta att källkoden för varje version som för närvarande används är publicerad på internet där den kan ses utanför den ursprungliga bidragande organisationen och utan behov av någon form av autentisering eller auktorisering.
 * Bekräfta att [kodbasens](../glossary.md#kodbas) filer och incheckningshistorik inte innehåller känslig information.
 * Kontrollera om källkod som för närvarande inte används har publicerats.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
 * Utveckla regelverk öppet.
 * Prioritera öppna regelverk som möjliggör insyn.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Utveckla en kultur som omfamnar öppenhet, lärande och återkoppling.
+* Bygga upp en kultur som omfamnar öppenhet, lärande och återkoppling.
 * Samarbeta med externa leverantörer och frilansare genom att arbeta öppet.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
-* Som granskare, kontrollera vid varje incheckning att innehållet inte innehåller känslig information såsom konfigurationer, användarnamn eller lösenord, publika nycklar eller andra riktiga behörighetsuppgifter som används i produktionssystem.
+* I egenskap av granskare kontrollera vid varje incheckning att innehållet inte innehåller känslig information såsom konfigurationer, användarnamn eller lösenord, publika nycklar eller andra riktiga behörighetsuppgifter som används i produktionssystem.
 * Separera tydligt data och källkod för att uppfylla kravet om känslig information ovan.
 
 ## Vidare läsning

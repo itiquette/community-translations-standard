@@ -8,13 +8,13 @@ redirect_from:
 ---
 # Använd kontinuerlig integrering
 
-Asynkront samarbete möjliggörs genom att utvecklare ofta sammanslår sitt arbete till en delad gren, verifierat av automatiserade tester.
+Asynkront samarbete blir möjligt när utvecklare ofta sammanfogar sitt arbete i en delad gren och verifierar det med automatiserade tester.
 Ju oftare sammanslagning sker och ju mindre bidraget är, desto enklare är det att lösa sammanslagningskonflikter.
 
 Automatiserad testning av all funktionalitet ger förtroende för att bidrag fungerar som avsett och inte har infört fel, och gör det möjligt för granskare att fokusera på bidragets struktur och tillvägagångssätt.
 Ju mer fokuserat testet är, desto enklare är det att tydligt identifiera och förstå fel när de uppstår.
 
-Att dokumentera en kodbas' arbetsflöde för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) hjälper bidragsgivare att förstå vad som förväntas av bidrag.
+Att dokumentera kodbasens arbetsflöde för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) hjälper bidragsgivare att förstå vad som förväntas av bidrag.
 Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glossary.md#kodbas) tillstånd.
 
 ## Krav
@@ -30,7 +30,7 @@ Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glos
 * Att testa regelverk och dokumentation för stil och trasiga länkar är VALFRITT.
 * Att testa programvaran genom att använda exempel i dokumentationen är VALFRITT.
 
-## Hur du testar
+## Test
 
 * Bekräfta att det finns tester.
 * Bekräfta att verktyg för källkodstäckning kontrollerar att täckningen är 100 % av källkoden.
@@ -40,28 +40,28 @@ Kontinuerlig integrering möjliggör enklare övervakning av [kodbasens](../glos
 * Kontrollera att testresultaten kan granskas.
 * Kontrollera om data om källkodstäckning publiceras.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Engagera chefer samt utvecklare och formgivare så tidigt i processen som möjligt och håll dem engagerade genom hela utvecklingen av ert regelverk.
+* Engagera chefer samt utvecklare och formgivare tidigt i processen och hålla dem engagerade genom hela utvecklingen av ert regelverk.
 * Se till att det också finns automatiserade tester uppsatta för regelverksdokumentation.
 * Åtgärda regelverksdokumentation skyndsamt om den underkänns i ett test.
 * Se till att källkoden speglar alla ändringar i regelverket (se [Upprätthåll versionshantering](maintain-version-control.md)).
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
 * Se till att testa med verkliga slutanvändare så snabbt och ofta som möjligt.
 * Planera arbetet så att små delar integreras mycket ofta i stället för stora delar mer sällan.
 * Upphandla konsulttjänster som levererar stegvis i linje med planen.
 * Efter ett allvarligt fel, uppmuntra till att publicera incidentrapporter och föra offentlig diskussion om vad som lärdes.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
-* Hjälp chefer att strukturera arbetsplanen så att den kan integreras som små steg.
-* Hjälp bidragsgivare att begränsa omfattningen av sina bidrag och funktionsönskemål till att vara så små som rimligt.
-* Hjälp chefer och beslutsfattare att testa sina bidrag, till exempel genom att testa deras bidrag för trasiga länkar eller stil.
+* Hjälpa chefer att strukturera arbetsplanen så att den kan integreras som små steg.
+* Hjälpa bidragsgivare att begränsa omfattningen av sina bidrag och funktionsönskemål till att vara så små som är rimligt.
+* Hjälpa chefer och beslutsfattare att testa sina bidrag, till exempel genom att testa deras bidrag för trasiga länkar eller stil.
 * Om viss källkod hanterar förhållanden som är svåra att skapa i en testmiljö, strukturera den så att förhållandena kan simuleras under testning. Resursutmattning som att lagringsutrymmet tar slut och misslyckad minnesallokering är typiska exempel på svårskapade förhållanden.
 * Justera verktyg för testtäckning av kod för att undvika falsklarm till följd av inlining eller andra optimeringar.
-* Driftsätt ofta.
+* Driftsätta ofta.
 * Integrera ert arbete minst en gång om dagen.
 
 ## Vidare läsning

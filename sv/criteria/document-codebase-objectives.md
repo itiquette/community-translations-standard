@@ -14,27 +14,27 @@ Målen ger också ett enkelt sätt för människor att avgöra om kodbasen, elle
 
 ## Krav
 
-* Kodbasen MÅSTE innehålla dokumentation av sina mål, såsom ett uppdrag och en målbeskrivning, som är begriplig för utvecklare och formgivare så att de kan använda eller bidra till kodbasen.
+* Kodbasen MÅSTE dokumentera sina mål, till exempel genom ett uppdrag och en målbeskrivning, på ett sätt som är begripligt för utvecklare och formgivare så att de kan använda eller bidra till kodbasen.
 * Kodbasens dokumentation BÖR tydligt beskriva kopplingarna mellan [regelverkets](../glossary.md#regelverk) mål och kodbasens mål.
 * Att dokumentera kodbasens mål för [allmänheten](../glossary.md#allmänheten) är VALFRITT.
 
-## Hur du testar
+## Test
 
 * Bekräfta att kodbasens dokumentation innehåller kodbasens mål, uppdrag eller målbeskrivning.
 * Kontrollera om det finns beskrivningar av kopplingarna mellan regelverkets mål och kodbasens mål.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Lägg till regelverkets mål i kodbasens dokumentation, till exempel i `README`-filen.
-* Se till att alla era kodbasmål har länkar eller hänvisningar till underbyggande regelverksdokument som lagts till för att uppfylla kriteriet [Paketera regelverk och källkod](bundle-policy-and-source-code.md).
+* Lägga till regelverkets mål i kodbasens dokumentation, till exempel i `README`-filen.
+* Se till att alla era kodbasmål har länkar eller hänvisningar till regelverksdokumentation som lagts till för att uppfylla kriteriet [Paketera regelverk och källkod](bundle-policy-and-source-code.md).
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Lägg till organisatoriska och verksamhetsmässiga mål i kodbasens dokumentation, till exempel i `README`-filen.
+* Lägga till organisatoriska och verksamhetsmässiga mål i kodbasens dokumentation, till exempel i `README`-filen.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
-* Lägg till tekniska mål och designmål i kodbasens dokumentation, till exempel i `README`-filen.
+* Lägga till mål för teknik och formgivning i kodbasens dokumentation, till exempel i `README`-filen.
 
 ## Vidare läsning
 

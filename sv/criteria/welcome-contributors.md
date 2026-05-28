@@ -8,10 +8,10 @@ redirect_from:
 ---
 # Välkomna bidragsgivare
 
-Atmosfären i en [kodbas'](../glossary.md#kodbas) gemenskap hjälper användare att välja en kodbas framför en annan.
+Atmosfären i [kodbasens](../glossary.md#kodbas) gemenskap hjälper användare att välja en kodbas framför en annan.
 Att välkomna vem som helst som bidragsgivare gör det möjligt för gemenskapen att växa och bestå över tid.
 En gemenskap där bidragsgivare har tydliga vägar att påverka kodbasens och gemenskapens mål och framsteg löper mindre risk att splittras och gå skilda vägar.
-Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
+Nya deltagare behöver förstå och lita på kodbasgemenskapens styrning.
 
 ## Krav
 
@@ -24,7 +24,7 @@ Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 * Kodbasen BÖR publicera statistik över kodbasens aktivitet.
 * Att ha med en uppförandekod för bidragsgivare i kodbasen är VALFRITT.
 
-## Hur du testar
+## Test
 
 * Bekräfta att det är möjligt att lämna förslag på ändringar av kodbasen.
 * Bekräfta att det finns riktlinjer för bidrag.
@@ -35,29 +35,29 @@ Nykomlingar behöver förstå och lita på kodbasgemenskapens styrning.
 * Kontrollera om det finns publicerad aktivitetsstatistik.
 * Kontrollera om det finns en uppförandekod.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Lägg till en lista i kodbasen med andra resurser som [regelverk](../glossary.md#regelverk)sexperter, icke-statliga organisationer och akademiker skulle finna användbara för att förstå eller återanvända ert regelverk.
-* Överväg att lägga till kontaktuppgifter så att andra beslutsfattare som överväger samarbete kan be er om råd.
+* Lägga till en lista i kodbasen med andra resurser som [regelverk](../glossary.md#regelverk)sexperter, icke-statliga organisationer och akademiker skulle finna användbara för att förstå eller återanvända ert regelverk.
+* Överväga att lägga till kontaktuppgifter så att andra beslutsfattare som överväger samarbete kan be er om råd.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
 * Se till att dokumentationen av styrningen omfattar den nuvarande processen för hur man gör ändringar i styrningen.
 * Om gemenskapen har viss samsyn kring hur styrningen bör förändras, formulera idéerna som ambitioner och ta med dem i dokumentationen.
 * Se till att ni vid behov har avsatt budget för granskningsprocessen för bidrag enligt överenskommelse i kodbasgemenskapen.
 * Se till att dokumentationen förklarar hur varje organisation är engagerad i kodbasen, vilka resurser den har tillgängliga och under hur lång tid.
-* Stöd era erfarna beslutsfattare, utvecklare och formgivare att vara en del av gemenskapen så länge som möjligt.
+* Stödja era erfarna beslutsfattare, utvecklare och formgivare i att vara en del av gemenskapen så länge som möjligt.
 
 <p style="page-break-after: always;"></p>
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
 * Svara snabbt på förfrågningar.
-* Håll era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.
+* Hålla era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.
 * Kommunicera tydligt till bidragsgivare vad de behöver göra för att säkerställa att deras bidrag kan integreras.
 
 ## Vidare läsning
 
 * [Building welcoming communities](https://opensource.guide/building-community/) av Open Source Guides.
 * [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) av Mike McQuaid.
-* [Leadership and governance](https://opensource.guide/leadership-and-governance/) för växande [öppen källkods](../glossary.md#öppen-källkod)-gemenskapsprojekt, av Open Source Guides.
+* [Leadership and governance](https://opensource.guide/leadership-and-governance/) för växande gemenskapsprojekt för [fri- och öppen programvara](../glossary.md#öppen-källkod), av Open Source Guides.
 * [Building online communities](http://hintjens.com/blog:117) av Pieter Hintjens (lång läsning!).

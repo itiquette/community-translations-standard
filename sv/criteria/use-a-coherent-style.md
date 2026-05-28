@@ -18,20 +18,20 @@ Att ena terminologin minskar friktionen i kommunikationen mellan bidragsgivare.
 * Stilguiden BÖR innehålla förväntningar på kommentarer i koden och dokumentation för icke-triviala avsnitt.
 * Att ta med förväntningar på [begriplig engelska](use-plain-english.md) i stilguiden är VALFRITT.
 
-## Hur du testar
+## Test
 
-* Bekräfta att bidrag är i linje med de stilguider som anges i dokumentationen.
+* Bekräfta att bidrag följer de stilguider som anges i dokumentationen.
 * Kontrollera om det finns automatiserade stiltest.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Skapa, följ och förbättra kontinuerligt en stilguide för [regelverk](../glossary.md#regelverk) och dokumentation och dokumentera det i kodbasen, till exempel i `CONTRIBUTING`- eller `README`-filen.
+* Skapa, följa och fortlöpande förbättra en stilguide för [regelverk](../glossary.md#regelverk) och dokumentation och dokumentera det i kodbasen, till exempel i `CONTRIBUTING`- eller `README`-filen.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
 * Ta med standarder för skriftspråk, källkod, tester och regelverk i er organisations definition av kvalitet.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
 Om kodbasen inte redan har tekniska riktlinjer eller annan vägledning för bidragsgivare, börja med att lägga till dokumentation i [kodförrådet](../glossary.md#kodförråd) som beskriver hur det görs nu, till exempel i `CONTRIBUTING`- eller `README`-filen.
 Ett viktigt syfte med filen är att kommunicera designval, namngivningskonventioner och andra aspekter som maskiner inte enkelt kan kontrollera.
@@ -40,8 +40,8 @@ Förbättra och utöka dokumentationen fortlöpande med målet att den ska utvec
 
 Dessutom:
 
-* Använd en linter.
-* Lägg till konfigurationer för lintern i kodbasen.
+* Använda en linter.
+* Lägga till konfigurationer för lintern i kodbasen.
 
 ## Vidare läsning
 

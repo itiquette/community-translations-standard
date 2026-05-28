@@ -22,24 +22,24 @@ De möjliggör samverkan mellan system och minskar risken för leverantörsinlå
 * Öppna standarder som är maskinellt testbara BÖR föredras framför öppna standarder som inte är det.
 * Icke-öppna standarder som är maskinellt testbara BÖR föredras framför icke-öppna standarder som inte är det.
 
-## Hur du testar
+## Test
 
 * Bekräfta att datautbyte följer en öppen standard godkänd av OSI.
 * Bekräfta att alla icke-öppna standarder som används tydligt dokumenterats som sådana.
 * Bekräfta att dokumentationen innehåller en lista över de standarder som följs i kodbasen, var och en med en fungerande länk, eller ett uttalande om att inga standarder valts.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
 * Föreskriva användning av öppna standarder överallt där det är möjligt.
 * Förbjuda upphandling av teknik som inte använder öppna standarder.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Överväg att ta med bedömning av efterlevnad av öppna standarder i [källkods](../glossary.md#källkod)granskningar.
+* Överväga att bedöma efterlevnaden av öppna standarder i [källkods](../glossary.md#källkod)granskningar.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
-* Lägg till tester för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) som kontrollerar efterlevnad av standarderna.
+* Lägga till tester för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) som kontrollerar efterlevnad av standarderna.
 * Granska incheckningar och andra [kodförråds](../glossary.md#kodförråd)resurser för hänvisningar till standarder och kontrollera dem mot listan över använda standarder.
 
 ## Vidare läsning

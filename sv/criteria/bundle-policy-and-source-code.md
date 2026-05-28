@@ -8,46 +8,46 @@ redirect_from:
 ---
 # Paketera regelverk och källkod
 
-Tillgång till både [källkod](../glossary.md#källkod) och dokumentation av [regelverk](../glossary.md#regelverk) ger byggstenar för vem som helst att genomföra kodbasen i sitt lokala sammanhang eller bidra till [kodbasens](../glossary.md#kodbas) fortsatta utveckling.
+Tillgång till både [källkod](../glossary.md#källkod) och dokumentation av [regelverk](../glossary.md#regelverk) ger byggstenar för vem som helst att införa kodbasen i sitt lokala sammanhang eller att bidra till [kodbasens](../glossary.md#kodbas) fortsatta utveckling.
 
-Att förstå domänen och regelverken inom den domänen är grundläggande för att förstå vilka problem en kodbas försöker lösa och hur den gör det.
+Att förstå sakområdet och dess regelverk är grundläggande för att förstå vilka problem en kodbas försöker lösa och hur den löser dem.
 
-För att kunna bedöma om en kodbas ska genomföras i ett nytt sammanhang behöver en organisation förstå vilka processförändringar den måste välja att göra eller hur den kan bidra med ytterligare konfigurerbarhet till den befintliga lösningen för att anpassa den till det nya sammanhanget.
+För att kunna bedöma om en kodbas ska användas i ett nytt sammanhang behöver en organisation förstå vilka processförändringar den behöver göra eller hur den kan bidra med ytterligare konfigurerbarhet till den befintliga lösningen för att anpassa den till det nya sammanhanget.
 
 ## Krav
 
 * Kodbasen MÅSTE innehålla det regelverk som källkoden bygger på.
 * Om ett regelverk bygger på källkod MÅSTE den källkoden ingå i kodbasen, såvida den inte används för att upptäcka bedrägerier.
 * Regelverk BÖR tillhandahållas i maskinläsbara och entydiga format.
-* Tester för [kontinuerlig integrering](../glossary.md#kontinuerlig-integrering) BÖR verifiera att källkoden och regelverket verkställs på ett sammanhängande sätt.
+* Tester för [kontinuerlig integrering (CI)](../glossary.md#kontinuerlig-integrering) BÖR verifiera att källkoden och regelverket verkställs på ett sammanhängande sätt.
 
-## Hur du testar
+## Test
 
-* Bekräfta med en tjänsteperson att allt regelverk som källkoden bygger på finns innefattat.
-* Bekräfta med en tjänsteperson att all källkod som regelverket bygger på finns innefattad.
-* Kontrollera om regelverket kan tolkas av en maskin.
-* Kontrollera att testerna för kontinuerlig integrering för sammanhängande verkställande av källkod och regelverk godkänns.
+* Bekräfta med en tjänsteperson att de regelverk källkoden bygger på ingår.
+* Bekräfta med en tjänsteperson att den källkod som regelverket bygger på ingår.
+* Kontrollera om regelverket kan tolkas maskinellt.
+* Kontrollera att testerna för kontinuerlig integrering lyckas för både källkod och regelverk.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Samarbeta med utvecklare och formgivare för att säkerställa att det inte finns någon diskrepans mellan regelverkskod och källkod.
-* Tillhandahåll relevanta regelverkstexter för medtagning i [kodförrådet](../glossary.md#kodförråd); om texten inte finns tillgänglig på engelska, tillhandahåll även en engelsk sammanfattning. Se till att ta med standarder som er organisation har valt att följa och alla organisatoriska processer som påverkar utvecklingen eller driftsättningssammanhanget för kodbasen i er organisation.
-* Tillhandahåll hänvisningar och länkar till texter som stödjer regelverken.
+* Samarbeta med utvecklare och formgivare för att säkerställa att det inte finns skillnader mellan regelverkskod och källkod.
+* Tillhandahålla relevanta regelverkstexter som ska ingå i [kodförrådet](../glossary.md#kodförråd), samt en engelsk sammanfattning om texten inte finns tillgänglig på engelska. Ta med standarder som er organisation har valt att följa och alla organisatoriska processer som påverkar utvecklingen eller driftsättningssammanhanget för kodbasen i er organisation.
+* Tillhandahålla hänvisningar och länkar till texter som stödjer regelverken.
 * Dokumentera regelverk i format som är entydiga och maskinläsbara, såsom de som publicerats av [Object Management Group](https://www.omg.org/spec/).
-* Följ regelverk med [samma versionshantering](maintain-version-control.md) och dokumentation som används för att följa källkod.
-* Stäm av regelbundet för att förstå hur källkoden i kodbasen har förändrats och om den fortfarande överensstämmer med [regelverkets intentioner](document-codebase-objectives.md).
-* Ta med relevanta regelverk som påverkar gemenskapen, kodbasen och utvecklingen, inbegripet rättsliga skyldigheter som [dataskyddsförordningen](https://eur-lex.europa.eu/eli/reg/2016/679/oj) eller [EU:s tillgänglighetsdirektiv för webben](https://ec.europa.eu/digital-single-market/en/web-accessibility), eller rättighetsregelverk, som en offentlig organisations åtagande om lika möjligheter.
+* Spåra ändringar i regelverk med [samma versionshantering](maintain-version-control.md) och dokumentation som används för att spåra ändringar i källkod.
+* Hålla er regelbundet uppdaterade om hur källkoden i kodbasen har förändrats och om den fortfarande överensstämmer med [regelverkets intentioner](document-codebase-objectives.md).
+* Ta med relevanta regelverk som påverkar gemenskapen, kodbasen och utvecklingen, däribland rättsliga skyldigheter som [dataskyddsförordningen](https://eur-lex.europa.eu/eli/reg/2016/679/oj) eller [EU:s tillgänglighetsdirektiv för webben](https://ec.europa.eu/digital-single-market/en/web-accessibility), eller rättighetsregelverk, som en offentlig organisations åtagande om lika möjligheter.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Håll beslutsfattare, utvecklare och formgivare delaktiga och sammankopplade genom hela utvecklingsprocessen.
-* Säkerställ att beslutsfattare, utvecklare och formgivare arbetar mot samma mål.
+* Se till att beslutsfattare, utvecklare och formgivare är delaktiga och sammankopplade genom hela utvecklingsprocessen.
+* Säkerställa att beslutsfattare, utvecklare och formgivare arbetar mot samma mål.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
-* Sätt er in i och lär er använda den processmodelleringsnotation som beslutsfattarna i er organisation använder.
-* Arbeta tillsammans med beslutsfattare för att säkerställa att det inte finns någon diskrepans mellan regelverkskod och källkod.
-* Ge återkoppling om hur dokumentationen av regelverk kan göras tydligare.
+* Bekanta er med den notation för processmodellering som beslutsfattarna i er organisation använder.
+* Arbeta tillsammans med beslutsfattare för att säkerställa att det inte finns skillnader mellan regelverkskod och källkod.
+* Ge återkoppling om hur regelverksdokumentation kan tydliggöras.
 
 ## Vidare läsning
 

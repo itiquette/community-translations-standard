@@ -9,8 +9,8 @@ redirect_from:
 ---
 # Dokumentera kodbasens mognad
 
-Att tydligt signalera en [kodbas'](../glossary.md#kodbas) mognad hjälper andra att avgöra om de ska använda och bidra till den.
-En kodbasversions mognad innefattar mognaden hos dess beroenden.
+Att tydligt beskriva [kodbasens](../glossary.md#kodbas) mognad hjälper andra att avgöra om de ska använda och bidra till den.
+Mognaden hos en kodbasversion omfattar också mognaden hos dess beroenden.
 Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen och hur man bidrar till den.
 
 ## Krav
@@ -18,11 +18,11 @@ Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen
 * Kodbasen MÅSTE vara versionshanterad.
 * Kodbasen MÅSTE tydligt dokumentera huruvida det finns versioner av kodbasen som är redo att användas.
 * Kodbasversioner som är redo att användas MÅSTE bara bero på versioner av andra kodbaser som också är redo att användas.
-* Kodbasen BÖR innehålla en sammanfattning av ändringar från version till version, till exempel i `RELEASE_NOTES`-filen.
+* Kodbasen BÖR innehålla en sammanfattning av ändringar från version till version, till exempel i `CHANGELOG`-filen.
 * Metoden för att tilldela versionsidentifierare BÖR vara dokumenterad.
-* Att använda semantisk versionering är VALFRITT.
+* Det är VALFRITT att använda semantisk versionering.
 
-## Hur du testar
+## Test
 
 * Bekräfta att kodbasen har en dokumenterad strategi för versionering.
 * Bekräfta att det är uppenbart för beslutsfattare, chefer, utvecklare och formgivare huruvida kodbasen har versioner som är redo att användas.
@@ -30,16 +30,16 @@ Att förstå hur en kodbas har utvecklats är nyckeln till att förstå kodbasen
 * Kontrollera att kodbasens versioneringsschema är dokumenterat och följs.
 * Kontrollera att det finns en sammanfattning av ändringar.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* När ni utvecklar [regelverk](../glossary.md#regelverk), förstå att all [källkod](../glossary.md#källkod) som utvecklas behöver testas och förbättras innan den kan tas i bruk.
-* Överväg att versionera regelverksändringar, särskilt när de utlöser nya versioner av källkoden.
+* Förstå att all [källkod](../glossary.md#källkod) som utvecklas behöver testas och förbättras innan den kan tas i bruk när ni utvecklar [regelverk](../glossary.md#regelverk).
+* Överväga att versionera regelverksändringar, särskilt när de leder till nya versioner av källkoden.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
 * Se till att tjänster bara förlitar sig på kodbasversioner med lika eller högre mognad än tjänsten. Använd till exempel inte en betaversion av en kodbas i en produktionstjänst.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
 * Se till att kodbasens versioneringsmetod följs vid alla utgåvor.
 

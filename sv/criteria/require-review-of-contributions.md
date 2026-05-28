@@ -10,7 +10,7 @@ redirect_from:
 
 Kollegial granskning av bidrag är avgörande för [källkodens](../glossary.md#källkod) kvalitet och för att minska säkerhets- och driftsrisker.
 
-Att kräva grundlig granskning av bidrag uppmuntrar en kultur där man ser till att varje bidrag håller hög kvalitet, är fullständigt och skapar värde.
+Att kräva noggrann granskning av bidrag uppmuntrar en kultur där man ser till att varje bidrag håller hög kvalitet, är fullständigt och skapar värde.
 Granskning av källkod ökar chansen att upptäcka och åtgärda potentiella programfel eller misstag innan de läggs till i [kodbasen](../glossary.md#kodbas).
 Att all källkod granskas motverkar en kultur av att klandra enskilda och uppmuntrar i stället en kultur som fokuserar på lösningar.
 
@@ -28,7 +28,7 @@ Ett [regelverk](../glossary.md#regelverk) om skyndsam granskning försäkrar bid
 * Granskningar BÖR ske inom två arbetsdagar.
 * Att utföra granskningar med flera granskare är VALFRITT.
 
-## Hur du testar
+## Test
 
 * Bekräfta att varje incheckning i historiken har granskats av en annan bidragsgivare.
 * Bekräfta att granskningar omfattar källkod, regelverk, tester och dokumentation.
@@ -39,23 +39,23 @@ Ett [regelverk](../glossary.md#regelverk) om skyndsam granskning försäkrar bid
 * Kontrollera om grenskydd används i [versionshanteringssystemet](../glossary.md#versionshantering).
 * Kontrollera att det inte finns ett mönster av perioder mellan bidragsinlämning och granskning där bidragsgivaren behöver vänta längre än två arbetsdagar på meningsfull återkoppling.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Inför en princip om "fyra ögon" där allt, inte bara källkod, granskas.
-* Använd ett versionshanteringssystem eller en metod som möjliggör granskning och återkoppling.
+* Införa en princip om "fyra ögon" där allt, inte bara källkod, granskas.
+* Använda ett versionshanteringssystem eller en metod som möjliggör granskning och återkoppling.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Gör det till ett gemensamt mål att leverera utmärkt programvara.
+* Göra det till ett gemensamt mål att leverera utmärkt programvara.
 * Se till att det att skriva och granska bidrag till källkod, regelverk, dokumentation och tester värderas lika.
 * Skapa en kultur där alla bidrag välkomnas och alla har befogenhet att granska dem.
 * Se till att ingen bidragsgivare någonsin är ensam om att bidra till en kodbas.
 * Skapa ett mandat för utvecklare att prioritera skyndsam granskning av bidrag.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
 * Be andra bidragsgivare till kodbasen att granska ert arbete, i er organisation eller utanför den.
-* Försök att svara på andras granskningsförfrågningar skyndsamt, och ge inledningsvis återkoppling om ändringens koncept.
+* Försöka svara på andras granskningsförfrågningar skyndsamt, och ge inledningsvis återkoppling om ändringens grundidé.
 
 ## Vidare läsning
 

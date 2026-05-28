@@ -49,11 +49,11 @@ Utöver den dagliga verksamheten har styrgruppen gemensamt ansvar för att:
 - Förvalta en framtidsplan och bidragsprinciper
 - Lösa utvecklingsfrågor eller konflikter mellan bidragsgivare
 - Hantera och planera utgåvor
-- Kontrollera åtkomsträttigheter till standarden för offentlig kods tillgångar såsom källkodsförråd, värdtjänster och projektkalendrar
+- Kontrollera åtkomsträttigheter till standarden för offentlig kods tillgångar såsom kodförråd, värdtjänster och projektkalendrar
 - Upprätthålla projektets uppdrag, vision, värderingar och omfattning
 - Förfina styrningen vid behov
 - Fatta beslut på kodbasnivå
-- Förvalta varumärket standarden för offentlig kod
+- Förvalta varumärket för standarden för offentlig kod
 - Hantera licens- och immaterialrättsändringar
 
 ### Möten

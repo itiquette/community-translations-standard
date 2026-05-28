@@ -16,7 +16,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | source code | källkod | |
 | public code | offentlig kod | |
 | policy | regelverk | Omfattar lagar, förordningar, riktlinjer och styrdokument |
-| open source | öppen källkod | |
+| open source | fri- och öppen programvara, öppen källkod | Använd fri- och öppen programvara när programvaran som helhet avses |
 | open standard | öppen standard | |
 | software | programvara | |
 | standard | standard | |
@@ -65,7 +65,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | bug | programfel | |
 | patch | programfix | |
 | linter | linter | |
-| configuration | konfiguration |  |
+| configuration | konfiguration | |
 | module | modul | |
 | metadata | metadata | |
 | framework | ramverk | |
@@ -73,7 +73,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | issue | ärende | |
 | issue tracker | ärendespårare | |
 | maintainability | underhållbarhet | |
-| technical debt | teknisk skuld |  |
+| technical debt | teknisk skuld | |
 
 ## Samarbete och styrning
 
@@ -86,7 +86,7 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | code of conduct | uppförandekod | |
 | community | gemenskap | |
 | feedback | återkoppling | |
-| steering team | styrgrupp |1 |
+| steering team | styrgrupp | |
 | steering team member | styrgruppsledamot | |
 | consent (beslut) | samtycke | I styrningssammanhang |
 | voting | omröstning | |
@@ -137,11 +137,11 @@ Syftet är att säkerställa enhetlig terminologi genom hela översättningen oc
 | MAY | FÅR |
 | OPTIONAL | VALFRITT |
 
-## Undvikta anglicismer
+## Vanliga anglicismer
 
-| Undvikt anglicism | Ersättning | Anmärkning |
-|-------------------|------------|------------|
-| inkludera | innehålla, innefatta, ta med | Kontextberoende val |
+| Anglicism | Rekommenderad ersättning | Anmärkning |
+|-----------|--------------------------|------------|
+| inkludera | innehålla, innefatta, ta med | Valet beror på sammanhanget |
 | inklusive | inbegripet, däribland | |
 | transparent | möjlig att granska, insyn | Adjektiv resp. substantiv |
 | transparens | insyn | |

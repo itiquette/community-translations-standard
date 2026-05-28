@@ -8,7 +8,7 @@ redirect_from:
 
 Standarden för offentlig kod är en uppsättning kriterier som stödjer offentliga organisationer i att gemensamt utveckla och förvalta programvara och regelverk.
 
-Alla som utvecklar programvara eller regelverk med offentligt syfte kan använda standarden för att arbeta mot offentliga tjänster av högre kvalitet som är mer kostnadseffektiva, med mindre risk och mer kontroll.
+Alla som utvecklar programvara eller regelverk i offentligt syfte kan använda standarden för att arbeta mot offentliga tjänster av högre kvalitet som är mer kostnadseffektiva, med mindre risk och mer kontroll.
 
 Förordet introducerar begreppet offentlig kod och förklarar varför det är viktigt.
 
@@ -86,7 +86,7 @@ Vi anser att offentlig kod har följande kärnvärden:
 
 ## Hur offentlig kod fungerar
 
-Offentlig kod är programvara med öppen källkod avsedd att fylla offentliga organisationers väsentliga roll.
+Offentlig kod är fri- och öppen programvara avsedd att fylla offentliga organisationers väsentliga roll.
 Genom användning bidrar andra förvaltningar tillbaka till programvaran, så att dess utveckling och förvaltning blir genuint gemensam.
 
 Att vara öppen möjliggör mycket annat.

@@ -12,7 +12,7 @@ redirect_from:
 Ju lättare en [kodbas](../glossary.md#kodbas) är att hitta, desto fler potentiella nya samarbetspartner kommer att finna den.
 Att bara publicera en kodbas och hoppas att den hittas fungerar inte; det kräver aktivt arbete.
 
-En metadatabeskrivningsfil ökar upptäckbarheten.
+En metadatafil ökar upptäckbarheten.
 Välskriven metadata med en unik och bestående identifierare, såsom ett Wikidata-objekt eller en FSF-programvarukatalogpost (och därmed en del av den semantiska webben), gör kodbasen enklare att referera till, citera, särskilja och upptäcka via tredjepartsverktyg.
 
 ## Krav
@@ -28,7 +28,7 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 * Ett dedikerat domännamn för kodbasen är VALFRITT.
 * Regelbundna presentationer vid konferenser av gemenskapen är VALFRITT.
 
-## Hur du testar
+## Test
 
 * Kontrollera att kodbasens namn är beskrivande och fritt från ordlekar.
 * Kontrollera att kodbasens namn är fritt från förkortningar och akronymer, eller att förkortningarna eller akronymerna i namnet är mer allmänt kända än de längre formerna.
@@ -43,25 +43,25 @@ Välskriven metadata med en unik och bestående identifierare, såsom ett Wikida
 * Kontrollera poster med unika och bestående identifierare för kodbasens webbplats.
 * Kontrollera om det finns en maskinläsbar metadatabeskrivningsfil.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
 * Bidra med en beskrivning av det regelverksområde eller problem som kodbasen verkar inom.
-* Testa er problembeskrivning med kollegor utanför ert sammanhang som inte är bekanta med kodbasen.
+* Testa problembeskrivningen med kollegor utanför ert sammanhang som inte är bekanta med kodbasen.
 * Presentera hur kodbasen genomför [regelverket](../glossary.md#regelverk) vid relevanta konferenser.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Sök i varumärkesdatabaser för att undvika förväxling eller intrång innan ni bestämmer namnet.
-* Använd den korta beskrivningen varhelst kodbasen refereras, till exempel som beskrivning för konton i sociala medier.
+* Söka i varumärkesdatabaser för att undvika förväxling eller intrång innan ni bestämmer namnet.
+* Använda den korta beskrivningen överallt där kodbasen nämns, till exempel som beskrivning för konton i sociala medier.
 * Budgetera för kompetens inom innehållsutformning och sökmotoroptimering i teamet.
 * Se till att de som deltar i projektet presenterar vid relevanta konferenser.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
-* Sökmotoroptimering, till exempel genom att lägga till en [webbplatskarta](https://www.sitemaps.org/protocol.html).
-* Använd den korta beskrivningen varhelst kodbasen refereras, till exempel som kodförrådets beskrivning.
+* Hantera sökmotoroptimering, till exempel genom att lägga till en [webbplatskarta](https://www.sitemaps.org/protocol.html).
+* Använda den korta beskrivningen överallt där kodbasen nämns, till exempel som kodförrådets beskrivning.
 * Testa er problembeskrivning med kollegor utanför ert sammanhang som inte är bekanta med kodbasen.
-* Föreslå konferenser att presentera vid och presentera vid dem.
+* Föreslå konferenser där kodbasen kan presenteras och presentera den där.
 
 <p style="page-break-after: always;"></p>
 ## Vidare läsning

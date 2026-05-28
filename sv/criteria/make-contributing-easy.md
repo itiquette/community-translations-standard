@@ -16,10 +16,10 @@ Ju mindre ansträngning det krävs för att göra bidrag som accepteras av kodba
 * Kodbasen MÅSTE ha en offentlig ärendespårare som tar emot förslag från vem som helst.
 * Dokumentationen MÅSTE länka till både den offentliga ärendespåraren och inlämnade kodbasändringar, till exempel i en `README`-fil.
 * Kodbasen MÅSTE ha kommunikationskanaler för användare och utvecklare, till exempel e-postlistor.
-* Det MÅSTE finnas ett sätt att rapportera säkerhetsproblem för ansvarsfullt avslöjande via en sluten kanal.
+* Det MÅSTE finnas ett sätt att rapportera säkerhetsproblem för ansvarsfull rapportering via en sluten kanal.
 * Dokumentationen MÅSTE innehålla instruktioner för hur man rapporterar potentiellt säkerhetskänsliga problem.
 
-## Hur du testar
+## Test
 
 * Bekräfta att det finns en offentlig ärendespårare.
 * Bekräfta att kodbasen innehåller länkar till den offentliga ärendespåraren och inlämnade kodbasändringar.
@@ -27,19 +27,19 @@ Ju mindre ansträngning det krävs för att göra bidrag som accepteras av kodba
 * Bekräfta att det finns en sluten kanal för att rapportera säkerhetsproblem.
 * Bekräfta att det finns instruktioner för att rapportera säkerhetsproblem privat.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
-* Följ [regelverk](../glossary.md#regelverk)sfrågor i kodbasen, så att en relevant extern regelverksexpert kan ställa upp frivilligt.
+* Följa [regelverksfrågor](../glossary.md#regelverk) i kodbasen, så att en relevant extern regelverksexpert kan ställa upp frivilligt.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
-* Följ förvaltningsfrågor i kodbasen, så att externa chefer med relevant erfarenhet kan ställa upp frivilligt.
-* Stöd era erfarna beslutsfattare, utvecklare och formgivare att fortsätta bidra till kodbasen så länge som möjligt.
+* Följa förvaltningsfrågor i kodbasen, så att externa chefer med relevant erfarenhet kan ställa upp frivilligt.
+* Stödja era erfarna beslutsfattare, utvecklare och formgivare i att fortsätta bidra till kodbasen så länge som möjligt.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
 * Precis som för [granskningar](require-review-of-contributions.md), se till att svara på förfrågningar skyndsamt.
-* Håll era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.
+* Hålla era chefer informerade om den tid och de resurser ni behöver för att stödja andra bidragsgivare.
 * Se till att lämpliga kommunikationskanaler för att ställa frågor till underhållsansvariga och intressenter är lätta att hitta, exempelvis i README-filen.
 * Se till att lämpliga kontaktuppgifter finns med i metadata, exempelvis i publiccode.yml-filen.
 

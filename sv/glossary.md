@@ -12,13 +12,13 @@ Båda är regler där vissa utförs av människor och andra av maskiner.
 
 ## Kodbas
 
-Varje avgränsat paket av kod (både källkod och regelverk), de tester och den dokumentation som krävs för att genomföra ett regelverk eller en programvara.
+Varje avgränsat paket av kod (både källkod och regelverk), de tester och den dokumentation som krävs för att tillämpa ett regelverk eller köra programvara.
 
 Det kan till exempel vara ett dokument eller ett kodförråd med versionshantering.
 
 ## Kontinuerlig integrering
 
-Inom programvaruutveckling är kontinuerlig integrering (CI) praxis att så ofta som rimligt sammanslå alla utvecklares arbetskopior till en utvecklingsgren i en kodbas.
+Inom programvaruutveckling är kontinuerlig integrering (CI) arbetssättet att så ofta som rimligt sammanfoga alla utvecklares arbetskopior till en utvecklingsgren i en kodbas.
 
 ## Olika sammanhang
 
@@ -54,13 +54,13 @@ I standarden avser ordet "regelverk" regelverk som skapats och antagits av offen
 
 ## Offentlig kod
 
-Offentlig kod är programvara med öppen källkod som utvecklats av offentliga organisationer, tillsammans med det regelverk och den vägledning som behövs för samarbete och återanvändning.
+Offentlig kod är fri- och öppen programvara som utvecklats av offentliga organisationer, tillsammans med det regelverk och den vägledning som behövs för samarbete och återanvändning.
 
 Offentlig kod är både källkod (såsom programvara och algoritmer) och offentligt regelverk som verkställs i ett offentligt sammanhang, av människor eller maskiner.
 
 Offentlig kod tjänar allmänintresset, är öppen, läsbar, ansvarsutkrävbar, tillgänglig och hållbar.
 
-Genom att utveckla offentlig kod oberoende av, men ändå genomförbar i, det lokala sammanhang den utvecklades för, samt genom att dokumentera utvecklingsprocessen öppet, kan offentlig kod utgöra en byggsten för andra att:
+Genom att utveckla offentlig kod oberoende av det lokala sammanhang den utvecklades för, men ändå möjlig att införa där, samt genom att dokumentera utvecklingsprocessen öppet, kan offentlig kod utgöra en byggsten för andra att:
 
 * återanvända i sitt lokala sammanhang
 * använda som utgångspunkt för fortsatt utveckling
@@ -80,7 +80,7 @@ Människoläsbar text i ett datorprogram som kan översättas till maskininstruk
 
 ## Versionshantering
 
-Versionshantering innebär att följa förändringar i källkod och tillhörande filer över tid.
+Versionshantering innebär att spåra ändringar i källkod och tillhörande filer över tid.
 Förändringar identifieras vanligtvis med en kod, kallad *revisionsnummer* (eller liknande).
 Varje revision kopplas till tidpunkten den gjordes och den person som genomförde ändringen, vilket gör det enklare att spåra kodens utveckling.
 Versionshanteringssystem kan användas för att jämföra olika versioner med varandra och för att se hur innehållet har förändrats över tid.

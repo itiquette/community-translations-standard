@@ -14,7 +14,7 @@ Nedan följer en kort förklaring av vart och ett av avsnitten och hur de använ
 
 ## Inledning
 
-Avsnittet förklarar vad kriteriet syftar till att uppnå och varför det är viktigt för en kodbas' användare och bidragsgivare.
+Avsnittet förklarar vad kriteriet syftar till att uppnå och varför det är viktigt för kodbasens användare och bidragsgivare.
 
 ## Krav
 
@@ -33,20 +33,20 @@ Följande nyckelord i dokumentet ska tolkas enligt beskrivningen i [IETF RFC 211
 * FÅR (MAY)
 * VALFRITT (OPTIONAL)
 
-## Hur du testar
+## Test
 
 Avsnittet erbjuder åtgärder du kan vidta för att se om ett bidrag uppfyller standarden.
 Det är avgörande om du vill tillämpa standarden i praktiken.
 
 Vi har försökt formulera det så att även någon som inte är djupt insatt i ämnet kan göra en grundläggande kontroll av efterlevnaden.
 
-## Offentliga beslutsfattare: vad ni behöver göra
+## Offentliga beslutsfattare behöver:
 
 Avsnittet riktar sig särskilt till beslutsfattare genom att erbjuda dem konkreta åtgärder de kan vidta i sin roll.
 
 Offentliga beslutsfattare sätter prioriteringar och mål för projekt och kan ha mindre teknisk erfarenhet.
 
-## Chefer: vad ni behöver göra
+## Chefer behöver:
 
 Avsnittet riktar sig särskilt till chefer genom att erbjuda konkreta åtgärder de kan vidta i sin roll.
 
@@ -54,7 +54,7 @@ Chefer ansvarar för att projekt levereras i tid, för intressenthantering och f
 För detta är de helt beroende av såväl beslutsfattare som utvecklare och formgivare.
 De behöver skapa rätt kultur, samla rätt resurser och tillhandahålla rätt strukturer för att leverera utmärkta tjänster.
 
-## Utvecklare och formgivare: vad ni behöver göra
+## Utvecklare och formgivare behöver:
 
 Avsnittet riktar sig särskilt till utvecklare och formgivare genom att erbjuda dem konkreta åtgärder de kan vidta i sin roll.
 
